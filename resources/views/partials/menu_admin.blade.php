@@ -4,4 +4,4 @@
 <a href="{{ route('admin.penempatan.index') }}" class="{{ request()->routeIs('admin.penempatan.*') ? 'aktif' : '' }}">Penempatan &amp; Jadwal</a>
 <a href="{{ route('admin.pengguna.index') }}" class="{{ request()->routeIs('admin.pengguna.*') ? 'aktif' : '' }}">Pengguna &amp; Role</a>
 <a href="{{ route('admin.mahasiswa.index') }}" class="{{ request()->routeIs('admin.mahasiswa.*') ? 'aktif' : '' }}">Data Mahasiswa</a>
-<span class="nonaktif">Rekapitulasi</span>
+<a href="{{ route('admin.rekap.index') }}" class="{{ request()->routeIs('admin.rekap.*') ? 'aktif' : '' }}">Rekapitulasi</a>

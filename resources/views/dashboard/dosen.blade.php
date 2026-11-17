@@ -33,6 +33,10 @@
             <div class="angka">{{ $bimbinganMenunggu }}</div>
         </div>
         <div class="kartu">
+            <div class="label">Belum Dinilai</div>
+            <div class="angka">{{ $belumDinilai }}</div>
+        </div>
+        <div class="kartu">
             <div class="label">Laporan Menunggu Diperiksa</div>
             <div class="angka">{{ $laporanMenunggu }}</div>
         </div>

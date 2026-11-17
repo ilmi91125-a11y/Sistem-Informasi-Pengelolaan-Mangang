@@ -74,6 +74,7 @@
                         'Status Surat'     => route('mahasiswa.surat.index'),
                         'Tanggapan Bimbingan' => route('mahasiswa.bimbingan.index'),
                         'Hasil Laporan' => route('mahasiswa.laporan.index'),
+                        'Nilai Magang' => route('mahasiswa.penilaian.index'),
                         default            => null,
                     };
                 @endphp

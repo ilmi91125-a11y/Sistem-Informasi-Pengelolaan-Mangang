@@ -3,6 +3,7 @@
 use App\Http\Controllers\Admin\DataMahasiswaController;
 use App\Http\Controllers\Admin\KetentuanController;
 use App\Http\Controllers\Admin\PenempatanController;
+use App\Http\Controllers\Admin\RekapController;
 use App\Http\Controllers\Admin\PenggunaController;
 use App\Http\Controllers\Admin\SuratController as AdminSuratController;
 use App\Http\Controllers\Admin\TempatController;
@@ -10,10 +11,12 @@ use App\Http\Controllers\AuthController;
 use App\Http\Controllers\DashboardController;
 use App\Http\Controllers\Dosen\BimbinganController as DosenBimbinganController;
 use App\Http\Controllers\Dosen\LaporanController as DosenLaporanController;
+use App\Http\Controllers\Dosen\PenilaianController as DosenPenilaianController;
 use App\Http\Controllers\Dosen\VerifikasiController;
 use App\Http\Controllers\Mahasiswa\BimbinganController;
 use App\Http\Controllers\Mahasiswa\InformasiController;
 use App\Http\Controllers\Mahasiswa\LaporanController;
+use App\Http\Controllers\Mahasiswa\PenilaianController;
 use App\Http\Controllers\Mahasiswa\PendaftaranController;
 use App\Http\Controllers\Mahasiswa\PengajuanController;
 use App\Http\Controllers\Mahasiswa\SuratController;
@@ -45,6 +48,9 @@ Route::middleware('auth')->group(function () {
 
     // ---------------- ADMIN ----------------
     Route::middleware(RoleMiddleware::class . ':Admin')->prefix('admin')->name('admin.')->group(function () {
+        Route::get('/rekapitulasi', [RekapController::class, 'index'])->name('rekap.index');
+        Route::get('/rekapitulasi/ekspor', [RekapController::class, 'ekspor'])->name('rekap.ekspor');
+
         Route::get('/pengguna', [PenggunaController::class, 'index'])->name('pengguna.index');
         Route::get('/pengguna/baru', [PenggunaController::class, 'create'])->name('pengguna.create');
         Route::post('/pengguna', [PenggunaController::class, 'store'])->name('pengguna.store');
@@ -81,6 +87,10 @@ Route::middleware('auth')->group(function () {
 
     // ---------------- DOSEN ----------------
     Route::middleware(RoleMiddleware::class . ':Dosen')->prefix('dosen')->name('dosen.')->group(function () {
+        Route::get('/penilaian', [DosenPenilaianController::class, 'index'])->name('penilaian.index');
+        Route::get('/penilaian/{id}/nilai', [DosenPenilaianController::class, 'edit'])->name('penilaian.edit');
+        Route::put('/penilaian/{id}', [DosenPenilaianController::class, 'simpan'])->name('penilaian.simpan');
+
         Route::get('/laporan', [DosenLaporanController::class, 'index'])->name('laporan.index');
         Route::get('/laporan/{id}', [DosenLaporanController::class, 'show'])->name('laporan.show');
         Route::post('/laporan/{id}', [DosenLaporanController::class, 'periksa'])->name('laporan.periksa');
@@ -102,6 +112,8 @@ Route::middleware('auth')->group(function () {
 
         Route::get('/pendaftaran', [PendaftaranController::class, 'index'])->name('pendaftaran');
         Route::post('/pendaftaran', [PendaftaranController::class, 'store'])->name('pendaftaran.store');
+
+        Route::get('/penilaian', [PenilaianController::class, 'index'])->name('penilaian.index');
 
         Route::get('/laporan', [LaporanController::class, 'index'])->name('laporan.index');
         Route::post('/laporan', [LaporanController::class, 'store'])->name('laporan.store');

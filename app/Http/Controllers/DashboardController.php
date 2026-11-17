@@ -77,6 +77,9 @@ class DashboardController extends Controller
             ->whereHas('penempatan', fn ($q) => $q->where('id_dosen_pembimbing', $id))
             ->count() : 0;
 
+        $belumDinilai = $id ? PenempatanMagang::where('id_dosen_pembimbing', $id)
+            ->whereDoesntHave('penilaian')->count() : 0;
+
         $laporanMenunggu = $id ? LaporanMagang::where('status_laporan', 'Diunggah')
             ->whereHas('penempatan', fn ($q) => $q->where('id_dosen_pembimbing', $id))
             ->count() : 0;
@@ -91,7 +94,7 @@ class DashboardController extends Controller
 
         return view('dashboard.dosen', compact(
             'user', 'dosen', 'mahasiswaPa', 'pengajuanMenunggu',
-            'mahasiswaBimbingan', 'laporanMenunggu', 'bimbinganMenunggu', 'pengajuanTerbaru', 'notifikasi'
+            'mahasiswaBimbingan', 'laporanMenunggu', 'bimbinganMenunggu', 'belumDinilai', 'pengajuanTerbaru', 'notifikasi'
         ));
     }
 
@@ -129,7 +132,7 @@ class DashboardController extends Controller
         $adaTujuan = ['Hasil Verifikasi', 'Pengajuan Baru', 'Pengajuan Direvisi',
                       'Status Surat', 'Permohonan Surat', 'Surat Dilengkapi',
                       'Bimbingan Baru', 'Tanggapan Bimbingan',
-                      'Laporan Baru', 'Hasil Laporan'];
+                      'Laporan Baru', 'Hasil Laporan', 'Nilai Magang'];
 
         $ids = $notifikasi->where('sudah_dibaca', false)
             ->reject(fn ($n) => in_array($n->jenis_notifikasi, $adaTujuan, true))
