@@ -4,72 +4,102 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Login - SIM MAGANG</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="{{ asset('css/sim.css') }}">
     <style>
-        * { box-sizing: border-box; }
-        body { margin:0; font-family:"Segoe UI", Arial, sans-serif; min-height:100vh; display:flex; }
-        .kiri { flex:1; background:#12306b; color:#fff; padding:48px; display:flex; flex-direction:column; justify-content:center; }
-        .kiri h1 { margin:0 0 6px; font-size:32px; }
-        .kiri p.sub { margin:0 0 36px; opacity:.8; }
-        .kiri ul { list-style:none; padding:0; margin:0; }
-        .kiri li { margin-bottom:16px; padding-left:28px; position:relative; line-height:1.5; }
-        .kiri li::before { content:"✓"; position:absolute; left:0; color:#93c5fd; font-weight:700; }
-        .kanan { flex:1; display:flex; align-items:center; justify-content:center; padding:32px; background:#f8fafc; }
-        .form { width:100%; max-width:380px; }
-        .form h2 { margin:0 0 6px; }
-        .form p.sub { margin:0 0 24px; color:#6b7280; font-size:14px; }
-        label { display:block; font-size:14px; margin-bottom:6px; font-weight:600; }
-        .input { width:100%; padding:11px 12px; border:1px solid #d1d5db; border-radius:8px; font-size:15px; margin-bottom:16px; }
-        .input:focus { outline:2px solid #93c5fd; border-color:#1d4ed8; }
+        body { min-height:100vh; display:grid; place-items:center; padding:32px 20px; }
+        /* Kartu putih dengan lapisan navy di belakangnya, seperti rancangan Figma */
+        .kartu-login { position:relative; width:100%; max-width:1000px; }
+        .kartu-login::before { content:""; position:absolute; inset:18px -18px -18px 18px; background:var(--navy); border-radius:22px; }
+        .kartu-isi { position:relative; display:grid; grid-template-columns:1fr 1.05fr; background:#fff; border-radius:22px; overflow:hidden; box-shadow:0 20px 50px rgba(11,36,84,.18); }
+        .panel-kiri { background:var(--navy); color:#fff; padding:56px 44px; display:flex; flex-direction:column; justify-content:center; background-image:radial-gradient(circle at 100% 0, rgba(49,129,234,.35), transparent 55%); }
+        .logo-besar { width:56px; height:56px; border-radius:16px; background:var(--blue); display:grid; place-items:center; font-weight:700; font-size:20px; margin-bottom:22px; }
+        .panel-kiri h1 { margin:0; font-size:30px; line-height:1.2; letter-spacing:.03em; }
+        .panel-kiri .sub { margin:6px 0 34px; opacity:.8; font-size:14px; }
+        .panel-kiri ul { list-style:none; margin:0; padding:0; }
+        .panel-kiri li { position:relative; padding-left:34px; margin-bottom:18px; font-size:13.5px; line-height:1.6; opacity:.95; }
+        .panel-kiri li::before { content:"✓"; position:absolute; left:0; top:1px; width:22px; height:22px; border-radius:50%; background:rgba(255,255,255,.16); display:grid; place-items:center; font-size:12px; font-weight:700; }
+        .panel-kanan { padding:56px 52px; display:flex; flex-direction:column; justify-content:center; }
+        .panel-kanan h2 { margin:0 0 4px; font-size:26px; font-weight:700; color:var(--navy); letter-spacing:.02em; }
+        .panel-kanan .sub { margin:0 0 28px; color:var(--muted); font-size:13.5px; }
         .pw { position:relative; }
-        .pw button { position:absolute; right:8px; top:6px; border:0; background:none; cursor:pointer; color:#1d4ed8; font-size:13px; }
-        .tombol { width:100%; padding:12px; border:0; border-radius:8px; background:#1d4ed8; color:#fff; font-size:16px; cursor:pointer; }
-        .tombol:hover { background:#1e40af; }
-        .galat { background:#fee2e2; color:#991b1b; padding:10px 12px; border-radius:8px; margin-bottom:16px; font-size:14px; }
-        .bantuan { margin-top:20px; font-size:13px; color:#6b7280; text-align:center; }
-        @media (max-width:800px){ body{flex-direction:column} .kiri{padding:28px} }
+        .pw .input { padding-right:48px; }
+        .pw button { position:absolute; right:6px; top:50%; transform:translateY(-50%); border:0; background:none; cursor:pointer; color:var(--muted); width:38px; height:38px; border-radius:8px; display:grid; place-items:center; }
+        .pw button:hover { color:var(--navy); background:#EEF1F9; }
+        .pw svg { width:20px; height:20px; }
+        .tombol { width:100%; padding:13px; margin-top:6px; font-size:16px; font-weight:700; border-radius:10px; }
+        .galat { background:#FDE0E0; color:#8F1111; border:1px solid #F7B7B7; padding:11px 14px; border-radius:10px; margin-bottom:18px; font-size:13px; }
+        .bantuan { margin:26px 0 0; text-align:center; font-size:12.5px; color:var(--muted); line-height:1.7; }
+        .bantuan b { display:block; color:var(--navy); font-weight:600; }
+        @media (max-width:820px) {
+            .kartu-isi { grid-template-columns:1fr; }
+            .panel-kiri { padding:32px 28px; }
+            .panel-kiri .sub { margin-bottom:20px; }
+            .panel-kanan { padding:36px 28px; }
+            .kartu-login::before { inset:12px -8px -12px 8px; }
+        }
     </style>
 </head>
 <body>
-    <section class="kiri">
-        <h1>SIM MAGANG</h1>
-        <p class="sub">Fakultas Sains dan Teknologi</p>
-        <ul>
-            <li>Pengelolaan proses magang secara digital dan terintegrasi.</li>
-            <li>Verifikasi, pengelolaan data, penilaian, dan rekapitulasi magang.</li>
-        </ul>
-    </section>
+    <div class="kartu-login">
+        <div class="kartu-isi">
+            <section class="panel-kiri">
+                <div class="logo-besar">SM</div>
+                <h1>SIM MAGANG</h1>
+                <p class="sub">Fakultas Sains dan Teknologi</p>
+                <ul>
+                    <li>Pengelolaan proses magang secara digital dan terintegrasi.</li>
+                    <li>Verifikasi, pengelolaan data, penilaian, dan rekapitulasi magang.</li>
+                </ul>
+            </section>
 
-    <section class="kanan">
-        <div class="form">
-            <h2>Masuk ke Akun</h2>
-            <p class="sub">Gunakan email dan password yang terdaftar.</p>
+            <section class="panel-kanan">
+                <h2>MASUK KE AKUN</h2>
+                <p class="sub">Masukkan akun untuk melanjutkan ke sistem.</p>
 
-            @if ($errors->any())
-                <div class="galat">{{ $errors->first() }}</div>
-            @endif
+                @if ($errors->any())
+                    <div class="galat" role="alert">{{ $errors->first() }}</div>
+                @endif
 
-            <form method="POST" action="{{ route('login.proses') }}">
-                @csrf
-                <label for="email">Email</label>
-                <input class="input" type="email" id="email" name="email"
-                       value="{{ old('email') }}" placeholder="nama@contoh.com" required autofocus>
+                <form method="POST" action="{{ route('login.proses') }}">
+                    @csrf
+                    <div class="grup">
+                        <label for="email">Username/Email</label>
+                        <input class="input" type="email" id="email" name="email" value="{{ old('email') }}"
+                               placeholder="Masukkan username" autocomplete="username" required autofocus>
+                    </div>
 
-                <label for="password">Password</label>
-                <div class="pw">
-                    <input class="input" type="password" id="password" name="password"
-                           placeholder="Masukkan password" required>
-                    <button type="button" onclick="
-                        var p = document.getElementById('password');
-                        p.type = p.type === 'password' ? 'text' : 'password';
-                        this.textContent = p.type === 'password' ? 'Tampilkan' : 'Sembunyikan';
-                    ">Tampilkan</button>
-                </div>
+                    <div class="grup">
+                        <label for="password">Password</label>
+                        <div class="pw">
+                            <input class="input" type="password" id="password" name="password"
+                                   placeholder="Masukkan password" autocomplete="current-password" required>
+                            <button type="button" id="lihat" aria-label="Tampilkan password">
+                                <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+                                    <path id="mata" d="M2 12s3.6-7 10-7 10 7 10 7-3.6 7-10 7S2 12 2 12Z"/><circle cx="12" cy="12" r="3"/>
+                                    <path id="coret" d="M4 4l16 16" style="display:none"/>
+                                </svg>
+                            </button>
+                        </div>
+                    </div>
 
-                <button class="tombol" type="submit">Masuk</button>
-            </form>
+                    <button class="btn tombol" type="submit">Masuk</button>
+                </form>
 
-            <p class="bantuan">Akses khusus pengguna terdaftar. Hubungi administrator bila butuh bantuan.</p>
+                <p class="bantuan"><b>Akses khusus pengguna terdaftar</b>Butuh bantuan? Hubungi administrator.</p>
+            </section>
         </div>
-    </section>
+    </div>
+    <script>
+        document.getElementById('lihat').addEventListener('click', function () {
+            var p = document.getElementById('password');
+            var tampil = p.type === 'password';
+            p.type = tampil ? 'text' : 'password';
+            document.getElementById('coret').style.display = tampil ? '' : 'none';
+            this.setAttribute('aria-label', tampil ? 'Sembunyikan password' : 'Tampilkan password');
+        });
+    </script>
 </body>
 </html>
