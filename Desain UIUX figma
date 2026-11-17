@@ -1,3 +1,11 @@
+/* login */
+
+position: relative;
+width: 1440px;
+height: 1024px;
+
+background: #E8EAF3;
+
 
 /* Group 1 */
 
