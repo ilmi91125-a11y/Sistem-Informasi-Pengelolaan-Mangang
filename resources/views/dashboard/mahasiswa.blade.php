@@ -73,6 +73,7 @@
                         'Hasil Verifikasi' => $n->id_referensi ? route('mahasiswa.pengajuan.show', $n->id_referensi) : null,
                         'Status Surat'     => route('mahasiswa.surat.index'),
                         'Tanggapan Bimbingan' => route('mahasiswa.bimbingan.index'),
+                        'Hasil Laporan' => route('mahasiswa.laporan.index'),
                         default            => null,
                     };
                 @endphp

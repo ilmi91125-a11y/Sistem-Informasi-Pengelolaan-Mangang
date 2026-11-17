@@ -9,9 +9,11 @@ use App\Http\Controllers\Admin\TempatController;
 use App\Http\Controllers\AuthController;
 use App\Http\Controllers\DashboardController;
 use App\Http\Controllers\Dosen\BimbinganController as DosenBimbinganController;
+use App\Http\Controllers\Dosen\LaporanController as DosenLaporanController;
 use App\Http\Controllers\Dosen\VerifikasiController;
 use App\Http\Controllers\Mahasiswa\BimbinganController;
 use App\Http\Controllers\Mahasiswa\InformasiController;
+use App\Http\Controllers\Mahasiswa\LaporanController;
 use App\Http\Controllers\Mahasiswa\PendaftaranController;
 use App\Http\Controllers\Mahasiswa\PengajuanController;
 use App\Http\Controllers\Mahasiswa\SuratController;
@@ -79,6 +81,10 @@ Route::middleware('auth')->group(function () {
 
     // ---------------- DOSEN ----------------
     Route::middleware(RoleMiddleware::class . ':Dosen')->prefix('dosen')->name('dosen.')->group(function () {
+        Route::get('/laporan', [DosenLaporanController::class, 'index'])->name('laporan.index');
+        Route::get('/laporan/{id}', [DosenLaporanController::class, 'show'])->name('laporan.show');
+        Route::post('/laporan/{id}', [DosenLaporanController::class, 'periksa'])->name('laporan.periksa');
+
         Route::get('/bimbingan', [DosenBimbinganController::class, 'index'])->name('bimbingan.index');
         Route::get('/bimbingan/{id}', [DosenBimbinganController::class, 'show'])->name('bimbingan.show');
         Route::post('/bimbingan/{id}', [DosenBimbinganController::class, 'tanggapi'])->name('bimbingan.tanggapi');
@@ -96,6 +102,10 @@ Route::middleware('auth')->group(function () {
 
         Route::get('/pendaftaran', [PendaftaranController::class, 'index'])->name('pendaftaran');
         Route::post('/pendaftaran', [PendaftaranController::class, 'store'])->name('pendaftaran.store');
+
+        Route::get('/laporan', [LaporanController::class, 'index'])->name('laporan.index');
+        Route::post('/laporan', [LaporanController::class, 'store'])->name('laporan.store');
+        Route::delete('/laporan/{id}', [LaporanController::class, 'destroy'])->name('laporan.destroy');
 
         Route::get('/bimbingan', [BimbinganController::class, 'index'])->name('bimbingan.index');
         Route::post('/bimbingan', [BimbinganController::class, 'store'])->name('bimbingan.store');

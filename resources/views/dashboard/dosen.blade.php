@@ -68,6 +68,8 @@
                     <a href="{{ route('dosen.verifikasi.show', $n->id_referensi) }}" style="font-size:13px">Buka</a>
                 @elseif ($n->id_referensi && $n->jenis_notifikasi === 'Bimbingan Baru')
                     <a href="{{ route('dosen.bimbingan.show', $n->id_referensi) }}" style="font-size:13px">Buka</a>
+                @elseif ($n->id_referensi && $n->jenis_notifikasi === 'Laporan Baru')
+                    <a href="{{ route('dosen.laporan.show', $n->id_referensi) }}" style="font-size:13px">Buka</a>
                 @endif
                 <br><span style="font-size:14px;color:#4b5563">{{ $n->pesan }}</span>
             </div>

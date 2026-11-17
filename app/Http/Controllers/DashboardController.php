@@ -128,7 +128,8 @@ class DashboardController extends Controller
     {
         $adaTujuan = ['Hasil Verifikasi', 'Pengajuan Baru', 'Pengajuan Direvisi',
                       'Status Surat', 'Permohonan Surat', 'Surat Dilengkapi',
-                      'Bimbingan Baru', 'Tanggapan Bimbingan'];
+                      'Bimbingan Baru', 'Tanggapan Bimbingan',
+                      'Laporan Baru', 'Hasil Laporan'];
 
         $ids = $notifikasi->where('sudah_dibaca', false)
             ->reject(fn ($n) => in_array($n->jenis_notifikasi, $adaTujuan, true))
