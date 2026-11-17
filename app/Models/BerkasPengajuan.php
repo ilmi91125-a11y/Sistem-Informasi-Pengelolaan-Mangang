@@ -1,3 +1,4 @@
+
 <?php
 
 namespace App\Models;
@@ -15,7 +16,13 @@ class BerkasPengajuan extends Model
     protected $keyType = 'string';
     public $timestamps = false;
 
-    protected $fillable = ['id_pengajuan', 'jenis_berkas', 'nama_berkas', 'url_berkas', 'tanggal_unggah'];
+    protected $fillable = [
+        'id_pengajuan',
+        'jenis_berkas',
+        'nama_berkas',
+        'url_berkas',
+        'tanggal_unggah'
+    ];
 
     protected function casts(): array
     {
@@ -29,8 +36,33 @@ class BerkasPengajuan extends Model
         return ['id_berkas'];
     }
 
+    // Relasi ke model PengajuanTempat
     public function pengajuan()
     {
         return $this->belongsTo(PengajuanTempat::class, 'id_pengajuan');
+    }
+
+    // Mengecek apakah berkas memiliki URL
+    public function hasFile(): bool
+    {
+        return !empty($this->url_berkas);
+    }
+
+    // Mengecek apakah berkas sudah diunggah
+    public function isUploaded(): bool
+    {
+        return !empty($this->tanggal_unggah);
+    }
+
+    // Mengubah jenis berkas menjadi format label
+    public function getJenisBerkasLabelAttribute(): string
+    {
+        return ucwords(str_replace('_', ' ', $this->jenis_berkas ?? ''));
+    }
+
+    // Mengambil berkas berdasarkan jenisnya
+    public function scopeByJenis($query, string $jenis)
+    {
+        return $query->where('jenis_berkas', $jenis);
     }
 }
