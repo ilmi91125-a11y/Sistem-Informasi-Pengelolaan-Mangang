@@ -8,7 +8,9 @@ use App\Http\Controllers\Admin\SuratController as AdminSuratController;
 use App\Http\Controllers\Admin\TempatController;
 use App\Http\Controllers\AuthController;
 use App\Http\Controllers\DashboardController;
+use App\Http\Controllers\Dosen\BimbinganController as DosenBimbinganController;
 use App\Http\Controllers\Dosen\VerifikasiController;
+use App\Http\Controllers\Mahasiswa\BimbinganController;
 use App\Http\Controllers\Mahasiswa\InformasiController;
 use App\Http\Controllers\Mahasiswa\PendaftaranController;
 use App\Http\Controllers\Mahasiswa\PengajuanController;
@@ -77,6 +79,10 @@ Route::middleware('auth')->group(function () {
 
     // ---------------- DOSEN ----------------
     Route::middleware(RoleMiddleware::class . ':Dosen')->prefix('dosen')->name('dosen.')->group(function () {
+        Route::get('/bimbingan', [DosenBimbinganController::class, 'index'])->name('bimbingan.index');
+        Route::get('/bimbingan/{id}', [DosenBimbinganController::class, 'show'])->name('bimbingan.show');
+        Route::post('/bimbingan/{id}', [DosenBimbinganController::class, 'tanggapi'])->name('bimbingan.tanggapi');
+
         Route::get('/verifikasi', [VerifikasiController::class, 'index'])->name('verifikasi.index');
         Route::get('/verifikasi/{id}', [VerifikasiController::class, 'show'])->name('verifikasi.show');
         Route::post('/verifikasi/{id}', [VerifikasiController::class, 'store'])->name('verifikasi.store');
@@ -90,6 +96,12 @@ Route::middleware('auth')->group(function () {
 
         Route::get('/pendaftaran', [PendaftaranController::class, 'index'])->name('pendaftaran');
         Route::post('/pendaftaran', [PendaftaranController::class, 'store'])->name('pendaftaran.store');
+
+        Route::get('/bimbingan', [BimbinganController::class, 'index'])->name('bimbingan.index');
+        Route::post('/bimbingan', [BimbinganController::class, 'store'])->name('bimbingan.store');
+        Route::get('/bimbingan/{id}/ubah', [BimbinganController::class, 'edit'])->name('bimbingan.edit');
+        Route::put('/bimbingan/{id}', [BimbinganController::class, 'update'])->name('bimbingan.update');
+        Route::delete('/bimbingan/{id}', [BimbinganController::class, 'destroy'])->name('bimbingan.destroy');
 
         Route::get('/surat', [SuratController::class, 'index'])->name('surat.index');
         Route::post('/surat/{id}', [SuratController::class, 'store'])->name('surat.store');

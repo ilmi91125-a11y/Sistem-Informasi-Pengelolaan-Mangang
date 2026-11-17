@@ -29,6 +29,10 @@
             <div class="angka">{{ $mahasiswaBimbingan }}</div>
         </div>
         <div class="kartu">
+            <div class="label">Bimbingan Menunggu Tanggapan</div>
+            <div class="angka">{{ $bimbinganMenunggu }}</div>
+        </div>
+        <div class="kartu">
             <div class="label">Laporan Menunggu Diperiksa</div>
             <div class="angka">{{ $laporanMenunggu }}</div>
         </div>
@@ -62,6 +66,8 @@
                 @unless ($n->sudah_dibaca) <span class="badge b-biru">Baru</span> @endunless
                 @if ($n->id_referensi && in_array($n->jenis_notifikasi, ['Pengajuan Baru', 'Pengajuan Direvisi']))
                     <a href="{{ route('dosen.verifikasi.show', $n->id_referensi) }}" style="font-size:13px">Buka</a>
+                @elseif ($n->id_referensi && $n->jenis_notifikasi === 'Bimbingan Baru')
+                    <a href="{{ route('dosen.bimbingan.show', $n->id_referensi) }}" style="font-size:13px">Buka</a>
                 @endif
                 <br><span style="font-size:14px;color:#4b5563">{{ $n->pesan }}</span>
             </div>
