@@ -73,6 +73,10 @@ class DashboardController extends Controller
         $mahasiswaBimbingan = $id ? PenempatanMagang::where('id_dosen_pembimbing', $id)
             ->where('status_magang', 'Berjalan')->count() : 0;
 
+        $bimbinganMenunggu = $id ? Bimbingan::where('status_bimbingan', 'Menunggu')
+            ->whereHas('penempatan', fn ($q) => $q->where('id_dosen_pembimbing', $id))
+            ->count() : 0;
+
         $laporanMenunggu = $id ? LaporanMagang::where('status_laporan', 'Diunggah')
             ->whereHas('penempatan', fn ($q) => $q->where('id_dosen_pembimbing', $id))
             ->count() : 0;
@@ -87,7 +91,7 @@ class DashboardController extends Controller
 
         return view('dashboard.dosen', compact(
             'user', 'dosen', 'mahasiswaPa', 'pengajuanMenunggu',
-            'mahasiswaBimbingan', 'laporanMenunggu', 'pengajuanTerbaru', 'notifikasi'
+            'mahasiswaBimbingan', 'laporanMenunggu', 'bimbinganMenunggu', 'pengajuanTerbaru', 'notifikasi'
         ));
     }
 
@@ -123,7 +127,8 @@ class DashboardController extends Controller
     private function tandaiDibaca($notifikasi): void
     {
         $adaTujuan = ['Hasil Verifikasi', 'Pengajuan Baru', 'Pengajuan Direvisi',
-                      'Status Surat', 'Permohonan Surat', 'Surat Dilengkapi'];
+                      'Status Surat', 'Permohonan Surat', 'Surat Dilengkapi',
+                      'Bimbingan Baru', 'Tanggapan Bimbingan'];
 
         $ids = $notifikasi->where('sudah_dibaca', false)
             ->reject(fn ($n) => in_array($n->jenis_notifikasi, $adaTujuan, true))

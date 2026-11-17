@@ -72,6 +72,7 @@
                     $tautan = match ($n->jenis_notifikasi) {
                         'Hasil Verifikasi' => $n->id_referensi ? route('mahasiswa.pengajuan.show', $n->id_referensi) : null,
                         'Status Surat'     => route('mahasiswa.surat.index'),
+                        'Tanggapan Bimbingan' => route('mahasiswa.bimbingan.index'),
                         default            => null,
                     };
                 @endphp
