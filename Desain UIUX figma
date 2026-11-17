@@ -1,0 +1,13146 @@
+/* login */
+
+position: relative;
+width: 1440px;
+height: 1024px;
+
+background: #E8EAF3;
+
+
+/* Group 1 */
+
+position: absolute;
+width: 724px;
+height: 813px;
+left: 642px;
+top: 124px;
+
+
+
+/* Frame 3 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 697px;
+height: 710px;
+left: 669px;
+top: 124px;
+
+background: #0B2454;
+border: 1px solid #000000;
+border-radius: 20px;
+
+
+/* Frame 2 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 697px;
+height: 710px;
+left: 642px;
+top: 152px;
+
+background: #FFFFFF;
+border: 1px solid #000000;
+border-radius: 20px;
+
+
+/* MASUK KE AKUN */
+
+position: absolute;
+width: 264px;
+height: 48px;
+left: 58px;
+top: 76px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 32px;
+line-height: 48px;
+/* identical to box height */
+
+color: #000000;
+
+
+
+/* Masukkan akun untuk melanjutkan ke sistem. */
+
+position: absolute;
+width: 452px;
+height: 30px;
+left: 59px;
+top: 138px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 30px;
+/* identical to box height */
+
+color: #000000;
+
+
+
+/* Frame 3 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 514px;
+height: 56px;
+left: calc(50% - 514px/2 + 0.5px);
+top: 263px;
+
+background: rgba(255, 255, 255, 0.08);
+border: 1px solid rgba(21, 9, 99, 0.41);
+border-radius: 10px;
+
+
+/* Masukkan username */
+
+position: absolute;
+width: 167px;
+height: 24px;
+left: 22px;
+top: 15px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height */
+
+color: #000000;
+
+
+
+/* Frame 4 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 514px;
+height: 56px;
+left: calc(50% - 514px/2 + 0.5px);
+top: 364px;
+
+background: rgba(255, 255, 255, 0.08);
+border: 1px solid rgba(21, 9, 99, 0.41);
+border-radius: 10px;
+
+
+/* Masukkan Password */
+
+position: absolute;
+width: 162px;
+height: 24px;
+left: 22px;
+top: 15px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height */
+
+color: #000000;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 90.66%;
+right: 3.89%;
+top: 30.36%;
+bottom: 32.14%;
+
+background: #000000;
+
+
+/* Username/Email */
+
+position: absolute;
+width: 134px;
+height: 24px;
+left: 93px;
+top: 229px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height */
+
+color: #000000;
+
+
+
+/* Password */
+
+position: absolute;
+width: 77px;
+height: 24px;
+left: 93px;
+top: 329px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height */
+
+color: #000000;
+
+
+
+/* Frame 7 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 514px;
+height: 56px;
+left: calc(50% - 514px/2 + 0.5px);
+top: 503px;
+
+background: rgba(49, 129, 234, 0.99);
+border: 1px solid rgba(0, 0, 0, 0.41);
+border-radius: 10px;
+
+
+/* Masuk */
+
+position: absolute;
+width: 69px;
+height: 30px;
+left: 213px;
+top: 13px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 30px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* login-rounded */
+
+position: absolute;
+width: 24px;
+height: 24px;
+left: 180px;
+top: 15px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 12.5%;
+right: 12.5%;
+top: 12.5%;
+bottom: 12.5%;
+
+background: #000000;
+
+
+/* Akses khusus pengguna terdaftar */
+
+position: absolute;
+width: 270px;
+height: 24px;
+left: calc(50% - 270px/2 + 262px);
+top: 767px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height */
+
+color: #000000;
+
+
+
+/* Butuh bantuan? Hubungi administrator. */
+
+position: absolute;
+width: 317px;
+height: 24px;
+left: 823px;
+top: 913px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height */
+
+color: #000000;
+
+
+
+/* dashboar mahasiswa */
+
+position: relative;
+width: 1440px;
+height: 1024px;
+
+background: #E8EAF3;
+
+
+/* Frame 9 */
+
+position: relative;
+width: 234px;
+height: 1081px;
+left: 0px;
+top: -25px;
+
+background: #0B2454;
+border-radius: 10px;
+
+
+/* MENU */
+
+position: absolute;
+width: 105px;
+height: 54px;
+left: 71px;
+top: 55px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 36px;
+line-height: 54px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* iconoir:menu */
+
+position: absolute;
+left: 9.83%;
+right: 76.5%;
+top: 6.11%;
+bottom: 90.93%;
+
+background: #0B2454;
+
+
+/* Vector */
+
+position: absolute;
+left: 12.5%;
+right: 12.5%;
+top: 20.83%;
+bottom: 20.83%;
+
+border: 1.5px solid #FFFFFF;
+
+
+/* Dashboard */
+
+position: absolute;
+width: 92px;
+height: 24px;
+left: calc(50% - 92px/2);
+top: 128px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* Informasi Magang */
+
+position: absolute;
+width: 147px;
+height: 24px;
+left: calc(50% - 147px/2 - 2.5px);
+top: 171px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* Pendaftaran Magang */
+
+position: absolute;
+width: 172px;
+height: 24px;
+left: calc(50% - 172px/2 - 2px);
+top: 216px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* Pengajuan Lokasi */
+
+position: absolute;
+width: 140px;
+height: 24px;
+left: calc(50% - 140px/2);
+top: 258px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* Surat Magang */
+
+position: absolute;
+width: 114px;
+height: 24px;
+left: calc(50% - 114px/2 - 2px);
+top: 304px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* Bimbingan */
+
+position: absolute;
+width: 88px;
+height: 24px;
+left: calc(50% - 88px/2 - 2px);
+top: 350px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* Laporan */
+
+position: absolute;
+width: 66px;
+height: 24px;
+left: calc(50% - 66px/2 - 1px);
+top: 396px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* Penilaian */
+
+position: absolute;
+width: 74px;
+height: 24px;
+left: calc(50% - 74px/2 - 2px);
+top: 443px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* Pengaturan */
+
+position: absolute;
+width: 95px;
+height: 24px;
+left: calc(50% - 95px/2 - 1.5px);
+top: 488px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* Logout */
+
+position: absolute;
+width: 57px;
+height: 24px;
+left: calc(50% - 57px/2 - 5.5px);
+top: 1007px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* Vector 1 */
+
+position: absolute;
+width: 1204px;
+height: 0px;
+left: 234px;
+top: 121px;
+
+border: 1px solid #000000;
+
+
+/* SISTEM INFORMASI MAGANG Dashboard Mahasiswa */
+
+position: absolute;
+width: 457px;
+height: 74px;
+left: 265px;
+top: 27px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 32px;
+line-height: 48px;
+
+color: #000000;
+
+
+
+/* Selamat datang, user */
+
+position: absolute;
+width: 223px;
+height: 30px;
+left: 265px;
+top: 140px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 30px;
+/* identical to box height */
+
+color: #000000;
+
+
+
+/* Frame 10 */
+
+position: relative;
+width: 517px;
+height: 100px;
+left: 295px;
+top: 197px;
+
+background: rgba(115, 115, 115, 0.65);
+border-radius: 10px;
+
+
+/* Status Magang */
+
+position: absolute;
+width: 158px;
+height: 30px;
+left: 29px;
+top: 10px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 30px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* AKTIF */
+
+position: absolute;
+width: 52px;
+height: 30px;
+left: 53px;
+top: 41px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 30px;
+/* identical to box height */
+
+color: #00FF15;
+
+
+
+/* Frame 12 */
+
+position: relative;
+width: 517px;
+height: 100px;
+left: 295px;
+top: 324px;
+
+background: rgba(115, 115, 115, 0.65);
+border-radius: 10px;
+
+
+/* Surat Magang */
+
+position: absolute;
+width: 147px;
+height: 30px;
+left: 36px;
+top: 10px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 30px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* DIPROSES */
+
+position: absolute;
+width: 93px;
+height: 30px;
+left: 36px;
+top: 40px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 30px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* Frame 13 */
+
+position: relative;
+width: 517px;
+height: 100px;
+left: 852px;
+top: 324px;
+
+background: rgba(115, 115, 115, 0.65);
+border-radius: 10px;
+
+
+/* Laporan */
+
+position: absolute;
+width: 86px;
+height: 30px;
+left: 30px;
+top: 10px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 30px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* BELUM DIPROSES */
+
+position: absolute;
+width: 157px;
+height: 30px;
+left: 30px;
+top: 40px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 300;
+font-size: 20px;
+line-height: 30px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* Informasi Terbaru • Pengajuan lokasi sedang diverifikasi dosen. • Lengkapi dokumen persyaratan magang. */
+
+position: absolute;
+width: 448px;
+height: 90px;
+left: 301px;
+top: 462px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 30px;
+
+color: #000000;
+
+
+
+/* Frame 11 */
+
+position: relative;
+width: 517px;
+height: 100px;
+left: 852px;
+top: 204px;
+
+background: rgba(115, 115, 115, 0.65);
+border-radius: 10px;
+
+
+/* Bimbingan */
+
+position: absolute;
+width: 114px;
+height: 30px;
+left: 36px;
+top: 10px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 30px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* 4 PERTEMUAN */
+
+position: absolute;
+width: 132px;
+height: 30px;
+left: 36px;
+top: 40px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 30px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* dashboar Inforamasi tempat magang */
+
+position: relative;
+width: 1440px;
+height: 1024px;
+
+background: #E8EAF3;
+
+
+/* Frame 9 */
+
+position: relative;
+width: 234px;
+height: 1081px;
+left: 0px;
+top: -25px;
+
+background: #0B2454;
+border-radius: 10px;
+
+
+/* MENU */
+
+position: absolute;
+width: 105px;
+height: 54px;
+left: 71px;
+top: 55px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 36px;
+line-height: 54px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* iconoir:menu */
+
+position: absolute;
+left: 9.83%;
+right: 76.5%;
+top: 6.11%;
+bottom: 90.93%;
+
+background: #0B2454;
+
+
+/* Vector */
+
+position: absolute;
+left: 12.5%;
+right: 12.5%;
+top: 20.83%;
+bottom: 20.83%;
+
+border: 1.5px solid #FFFFFF;
+
+
+/* Dashboard */
+
+position: absolute;
+width: 90px;
+height: 24px;
+left: calc(50% - 90px/2 - 1px);
+top: 128px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* Informasi Magang */
+
+position: absolute;
+width: 153px;
+height: 24px;
+left: calc(50% - 153px/2 + 0.5px);
+top: 171px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* Pendaftaran Magang */
+
+position: absolute;
+width: 172px;
+height: 24px;
+left: calc(50% - 172px/2 - 2px);
+top: 216px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* Pengajuan Lokasi */
+
+position: absolute;
+width: 140px;
+height: 24px;
+left: calc(50% - 140px/2);
+top: 258px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* Surat Magang */
+
+position: absolute;
+width: 114px;
+height: 24px;
+left: calc(50% - 114px/2 - 2px);
+top: 304px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* Bimbingan */
+
+position: absolute;
+width: 88px;
+height: 24px;
+left: calc(50% - 88px/2 - 2px);
+top: 350px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* Laporan */
+
+position: absolute;
+width: 66px;
+height: 24px;
+left: calc(50% - 66px/2 - 1px);
+top: 396px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* Penilaian */
+
+position: absolute;
+width: 74px;
+height: 24px;
+left: calc(50% - 74px/2 - 2px);
+top: 443px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* Pengaturan */
+
+position: absolute;
+width: 95px;
+height: 24px;
+left: calc(50% - 95px/2 - 1.5px);
+top: 488px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* Logout */
+
+position: absolute;
+width: 57px;
+height: 24px;
+left: calc(50% - 57px/2 - 5.5px);
+top: 1007px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* Frame 17 */
+
+position: relative;
+width: 87px;
+height: 19px;
+left: 1262px;
+top: 410px;
+
+background: rgba(0, 0, 0, 0.34);
+border-radius: 20px;
+
+
+/* Vector 1 */
+
+position: absolute;
+width: 1204px;
+height: 0px;
+left: 234px;
+top: 121px;
+
+border: 1px solid #000000;
+
+
+/* Informasi Tempat Magang Temukan informasi instansi dan persyaratan magang. */
+
+position: absolute;
+width: 546px;
+height: 74px;
+left: 265px;
+top: 27px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 32px;
+line-height: 48px;
+
+color: #000000;
+
+
+
+/* Frame 15 */
+
+position: relative;
+width: 1096px;
+height: 56px;
+left: calc(50% - 1096px/2 + 116px);
+top: 147px;
+
+background: rgba(0, 0, 0, 0.28);
+border-radius: 10px;
+
+
+/* Cari nama Instansi.... */
+
+position: absolute;
+width: 166px;
+height: 24px;
+left: 61px;
+top: 15px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height */
+
+color: #000000;
+
+
+
+/* search */
+
+position: absolute;
+width: 30px;
+height: 31px;
+left: 16px;
+top: 12px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 12.5%;
+right: 12.5%;
+top: 12.5%;
+bottom: 12.5%;
+
+background: #000000;
+
+
+/* Daftar Nama Instansi */
+
+position: absolute;
+width: 221px;
+height: 30px;
+left: 294px;
+top: 234px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 30px;
+/* identical to box height */
+
+color: #000000;
+
+
+
+/* Group 2 */
+
+position: absolute;
+width: 1087px;
+height: 180px;
+left: 294px;
+top: 264px;
+
+
+
+/* Frame 16 */
+
+position: absolute;
+width: 1087px;
+height: 180px;
+left: 294px;
+top: 264px;
+
+background: rgba(115, 115, 115, 0.65);
+border-radius: 10px;
+
+
+/* Dinas Komunikasi dan Informatika */
+
+position: absolute;
+width: 359px;
+height: 30px;
+left: 19px;
+top: 20px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 30px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* Padang, Sumatera Barat Bidang: Teknologi Informasi */
+
+position: absolute;
+width: 220px;
+height: 48px;
+left: 55px;
+top: 65px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+
+color: #FFFFFF;
+
+
+
+/* Tersedia */
+
+position: absolute;
+width: 86px;
+height: 30px;
+left: 28px;
+top: 138px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 30px;
+/* identical to box height */
+
+color: #00FF15;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 2.58%;
+right: 95.95%;
+top: 37.22%;
+bottom: 52.04%;
+
+background: #000000;
+
+
+/* Detail */
+
+position: absolute;
+width: 58px;
+height: 30px;
+left: 978px;
+top: 141px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 30px;
+/* identical to box height */
+
+color: #0032FA;
+
+
+
+/* line-end-arrow-notch */
+
+position: absolute;
+width: 24px;
+height: 24px;
+left: 1041px;
+top: 144px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: -29.17%;
+right: 45.83%;
+top: 20.83%;
+bottom: 20.83%;
+
+background: #0032FA;
+
+
+/* Frame 18 */
+
+position: absolute;
+width: 87px;
+height: 19px;
+left: 28px;
+top: 143px;
+
+background: rgba(0, 233, 12, 0.25);
+border-radius: 20px;
+
+
+/* Group 3 */
+
+position: absolute;
+width: 1087px;
+height: 180px;
+left: calc(50% - 1087px/2 + 117.5px);
+top: 463px;
+
+
+
+/* Frame 16 */
+
+position: absolute;
+width: 1087px;
+height: 180px;
+left: 294px;
+top: 463px;
+
+background: rgba(115, 115, 115, 0.65);
+border-radius: 10px;
+
+
+/* Frame 17 */
+
+position: absolute;
+width: 87px;
+height: 19px;
+left: 968px;
+top: 146px;
+
+background: rgba(0, 0, 0, 0.34);
+border-radius: 20px;
+
+
+/* PT MAJU JAYA */
+
+position: absolute;
+width: 147px;
+height: 30px;
+left: 19px;
+top: 20px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 30px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* Padang, Sumatera Barat Bidang: Administrasi dan IT */
+
+position: absolute;
+width: 217px;
+height: 48px;
+left: 55px;
+top: 65px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+
+color: #FFFFFF;
+
+
+
+/* Tersedia */
+
+position: absolute;
+width: 86px;
+height: 30px;
+left: 28px;
+top: 138px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 30px;
+/* identical to box height */
+
+color: #00FF15;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 2.58%;
+right: 95.95%;
+top: 37.22%;
+bottom: 52.04%;
+
+background: #000000;
+
+
+/* Detail */
+
+position: absolute;
+width: 58px;
+height: 30px;
+left: 978px;
+top: 141px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 30px;
+/* identical to box height */
+
+color: #0032FA;
+
+
+
+/* line-end-arrow-notch */
+
+position: absolute;
+width: 24px;
+height: 24px;
+left: 1041px;
+top: 144px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: -29.17%;
+right: 45.83%;
+top: 20.83%;
+bottom: 20.83%;
+
+background: #0032FA;
+
+
+/* Frame 18 */
+
+position: absolute;
+width: 87px;
+height: 19px;
+left: 28px;
+top: 143px;
+
+background: rgba(0, 233, 12, 0.25);
+border-radius: 20px;
+
+
+/* Group 4 */
+
+position: absolute;
+width: 1087px;
+height: 180px;
+left: 294px;
+top: 676px;
+
+
+
+/* Frame 16 */
+
+position: absolute;
+width: 1087px;
+height: 180px;
+left: 294px;
+top: 676px;
+
+background: rgba(115, 115, 115, 0.65);
+border-radius: 10px;
+
+
+/* Dinas Kementrian PU */
+
+position: absolute;
+width: 217px;
+height: 30px;
+left: 19px;
+top: 20px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 30px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* Frame 17 */
+
+position: absolute;
+width: 87px;
+height: 19px;
+left: 968px;
+top: 146px;
+
+background: rgba(0, 0, 0, 0.33);
+border-radius: 20px;
+
+
+/* Padang, Sumatera Barat Bidang: Teknologi Informasi */
+
+position: absolute;
+width: 220px;
+height: 48px;
+left: 55px;
+top: 65px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+
+color: #FFFFFF;
+
+
+
+/* Tersedia */
+
+position: absolute;
+width: 86px;
+height: 30px;
+left: 28px;
+top: 138px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 30px;
+/* identical to box height */
+
+color: #00FF15;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 2.58%;
+right: 95.95%;
+top: 37.22%;
+bottom: 52.04%;
+
+background: #000000;
+
+
+/* Detail */
+
+position: absolute;
+width: 58px;
+height: 30px;
+left: 978px;
+top: 141px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 30px;
+/* identical to box height */
+
+color: #0032FA;
+
+
+
+/* line-end-arrow-notch */
+
+position: absolute;
+width: 24px;
+height: 24px;
+left: 1041px;
+top: 144px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: -29.17%;
+right: 45.83%;
+top: 20.83%;
+bottom: 20.83%;
+
+background: #0032FA;
+
+
+/* Frame 18 */
+
+position: absolute;
+width: 87px;
+height: 19px;
+left: 28px;
+top: 143px;
+
+background: rgba(0, 233, 12, 0.25);
+border-radius: 20px;
+
+
+/* dashboar pendaftaran magang */
+
+position: relative;
+width: 1440px;
+height: 1024px;
+
+background: #E8EAF3;
+
+
+/* Frame 9 */
+
+position: relative;
+width: 234px;
+height: 1081px;
+left: 0px;
+top: -25px;
+
+background: #0B2454;
+border-radius: 10px;
+
+
+/* MENU */
+
+position: absolute;
+width: 105px;
+height: 54px;
+left: 71px;
+top: 55px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 36px;
+line-height: 54px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* iconoir:menu */
+
+position: absolute;
+left: 9.83%;
+right: 76.5%;
+top: 6.11%;
+bottom: 90.93%;
+
+background: #0B2454;
+
+
+/* Vector */
+
+position: absolute;
+left: 12.5%;
+right: 12.5%;
+top: 20.83%;
+bottom: 20.83%;
+
+border: 1.5px solid #FFFFFF;
+
+
+/* Dashboard */
+
+position: absolute;
+width: 90px;
+height: 24px;
+left: calc(50% - 90px/2 - 1px);
+top: 128px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* Informasi Magang */
+
+position: absolute;
+width: 147px;
+height: 24px;
+left: calc(50% - 147px/2 - 2.5px);
+top: 171px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* Pendaftaran Magang */
+
+position: absolute;
+width: 177px;
+height: 24px;
+left: calc(50% - 177px/2 + 0.5px);
+top: 216px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* Pengajuan Lokasi */
+
+position: absolute;
+width: 140px;
+height: 24px;
+left: calc(50% - 140px/2);
+top: 258px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* Surat Magang */
+
+position: absolute;
+width: 114px;
+height: 24px;
+left: calc(50% - 114px/2 - 2px);
+top: 304px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* Bimbingan */
+
+position: absolute;
+width: 88px;
+height: 24px;
+left: calc(50% - 88px/2 - 2px);
+top: 350px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* Laporan */
+
+position: absolute;
+width: 66px;
+height: 24px;
+left: calc(50% - 66px/2 - 1px);
+top: 396px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* Penilaian */
+
+position: absolute;
+width: 74px;
+height: 24px;
+left: calc(50% - 74px/2 - 2px);
+top: 443px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* Pengaturan */
+
+position: absolute;
+width: 95px;
+height: 24px;
+left: calc(50% - 95px/2 - 1.5px);
+top: 488px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* Logout */
+
+position: absolute;
+width: 57px;
+height: 24px;
+left: calc(50% - 57px/2 - 5.5px);
+top: 1007px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* Vector 1 */
+
+position: absolute;
+width: 1204px;
+height: 0px;
+left: 234px;
+top: 121px;
+
+border: 1px solid #000000;
+
+
+/* Pendaftaran Magang Lengkapi formulir berikut untuk mengajukan pendaftaran magang. */
+
+position: absolute;
+width: 670px;
+height: 74px;
+left: 265px;
+top: 22px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 32px;
+line-height: 48px;
+
+color: #000000;
+
+
+
+/* Data Mahasiswa */
+
+position: absolute;
+width: 173px;
+height: 30px;
+left: 294px;
+top: 128px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 30px;
+/* identical to box height */
+
+color: #000000;
+
+
+
+/* Data Pendaftran */
+
+position: absolute;
+width: 171px;
+height: 30px;
+left: 292px;
+top: 427px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 30px;
+/* identical to box height */
+
+color: #000000;
+
+
+
+/* Group 2 */
+
+position: absolute;
+width: 1087px;
+height: 257px;
+left: 294px;
+top: 161px;
+
+
+
+/* Frame 16 */
+
+position: absolute;
+width: 1087px;
+height: 257px;
+left: 294px;
+top: 161px;
+
+background: rgba(115, 115, 115, 0.65);
+border-radius: 10px;
+
+
+/* Nama */
+
+position: absolute;
+width: 62px;
+height: 30px;
+left: 23px;
+top: 11px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 30px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* NIM */
+
+position: absolute;
+width: 37px;
+height: 30px;
+left: 23px;
+top: 83px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 30px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* Program Studi */
+
+position: absolute;
+width: 143px;
+height: 30px;
+left: 23px;
+top: 158px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 30px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* Frame 19 */
+
+position: absolute;
+width: 1059px;
+height: 41px;
+left: 13px;
+top: 41px;
+
+background: #656565;
+border-radius: 10px;
+
+
+/* Frame 20 */
+
+position: absolute;
+width: 1059px;
+height: 41px;
+left: 13px;
+top: 42px;
+
+background: #656565;
+border-radius: 10px;
+
+
+/* Frame 21 */
+
+position: absolute;
+width: 1059px;
+height: 41px;
+left: 13px;
+top: 114px;
+
+background: #656565;
+border-radius: 10px;
+
+
+/* Frame 22 */
+
+position: absolute;
+width: 1059px;
+height: 41px;
+left: 13px;
+top: 191px;
+
+background: #656565;
+border-radius: 10px;
+
+
+/* Group 3 */
+
+position: absolute;
+width: 1087px;
+height: 476px;
+left: 292px;
+top: 463px;
+
+
+
+/* Frame 16 */
+
+position: absolute;
+width: 1087px;
+height: 476px;
+left: 292px;
+top: 463px;
+
+background: rgba(115, 115, 115, 0.65);
+border-radius: 10px;
+
+
+/* Tempat Magang */
+
+position: absolute;
+width: 168px;
+height: 30px;
+left: 23px;
+top: 11px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 30px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* Bidang Magang */
+
+position: absolute;
+width: 160px;
+height: 30px;
+left: 23px;
+top: 83px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 30px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* Tanggal Mulai */
+
+position: absolute;
+width: 142px;
+height: 30px;
+left: 23px;
+top: 158px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 30px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* Tanggal Selesai */
+
+position: absolute;
+width: 159px;
+height: 30px;
+left: 13px;
+top: 233px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 30px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* Upload Berkas Persyartan */
+
+position: absolute;
+width: 257px;
+height: 30px;
+left: 13px;
+top: 304px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 30px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* Frame 19 */
+
+position: absolute;
+width: 1059px;
+height: 41px;
+left: 13px;
+top: 41px;
+
+background: #656565;
+border-radius: 10px;
+
+
+/* Frame 20 */
+
+position: absolute;
+width: 1059px;
+height: 41px;
+left: 13px;
+top: 42px;
+
+background: #656565;
+border-radius: 10px;
+
+
+/* Frame 21 */
+
+position: absolute;
+width: 1059px;
+height: 41px;
+left: 13px;
+top: 114px;
+
+background: #656565;
+border-radius: 10px;
+
+
+/* Frame 22 */
+
+position: absolute;
+width: 1059px;
+height: 41px;
+left: 13px;
+top: 191px;
+
+background: #656565;
+border-radius: 10px;
+
+
+/* Frame 23 */
+
+position: absolute;
+width: 1059px;
+height: 41px;
+left: 13px;
+top: 263px;
+
+background: #656565;
+border-radius: 10px;
+
+
+/* Frame 24 */
+
+position: absolute;
+width: 1059px;
+height: 131px;
+left: 13px;
+top: 334px;
+
+background: #656565;
+border-radius: 10px;
+
+
+/* Klik untuk mengunggah berkas PDF, maksimal 5 MB */
+
+position: absolute;
+width: 248px;
+height: 56px;
+left: calc(50% - 248px/2 - 30.5px);
+top: 60px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+
+color: #FFFFFF;
+
+
+
+/* cloud-upload-outline-rounded */
+
+position: absolute;
+width: 43px;
+height: 42px;
+left: 456px;
+top: 19px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 4.17%;
+right: 4.17%;
+top: 16.67%;
+bottom: 16.67%;
+
+background: #000000;
+
+
+/* Frame 25 */
+
+position: relative;
+width: 205px;
+height: 45px;
+left: 1176px;
+top: 964px;
+
+background: #0B2454;
+border-radius: 10px;
+
+
+/* Kirim Pendaftaran */
+
+position: absolute;
+width: 181px;
+height: 30px;
+left: 16px;
+top: 8px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 30px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* Frame 26 */
+
+position: relative;
+width: 130px;
+height: 45px;
+left: 1021px;
+top: 966px;
+
+background: #656565;
+border-radius: 10px;
+
+
+/* Batal */
+
+position: absolute;
+width: 52px;
+height: 30px;
+left: 39px;
+top: 8px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 30px;
+/* identical to box height */
+
+color: #0B2454;
+
+
+
+/* dashboar Lokasi magang */
+
+position: relative;
+width: 1440px;
+height: 1024px;
+
+background: #E8EAF3;
+
+
+/* Frame 9 */
+
+position: relative;
+width: 234px;
+height: 1081px;
+left: 0px;
+top: -25px;
+
+background: #0B2454;
+border-radius: 10px;
+
+
+/* MENU */
+
+position: absolute;
+width: 105px;
+height: 54px;
+left: 71px;
+top: 55px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 36px;
+line-height: 54px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* iconoir:menu */
+
+position: absolute;
+left: 9.83%;
+right: 76.5%;
+top: 6.11%;
+bottom: 90.93%;
+
+background: #0B2454;
+
+
+/* Vector */
+
+position: absolute;
+left: 12.5%;
+right: 12.5%;
+top: 20.83%;
+bottom: 20.83%;
+
+border: 1.5px solid #FFFFFF;
+
+
+/* Dashboard */
+
+position: absolute;
+width: 90px;
+height: 24px;
+left: calc(50% - 90px/2 - 1px);
+top: 128px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* Informasi Magang */
+
+position: absolute;
+width: 147px;
+height: 24px;
+left: calc(50% - 147px/2 - 2.5px);
+top: 171px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* Pendaftaran Magang */
+
+position: absolute;
+width: 172px;
+height: 24px;
+left: calc(50% - 172px/2 - 2px);
+top: 216px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* Pengajuan Lokasi */
+
+position: absolute;
+width: 146px;
+height: 24px;
+left: calc(50% - 146px/2 + 3px);
+top: 258px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* Surat Magang */
+
+position: absolute;
+width: 114px;
+height: 24px;
+left: calc(50% - 114px/2 - 2px);
+top: 304px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* Bimbingan */
+
+position: absolute;
+width: 88px;
+height: 24px;
+left: calc(50% - 88px/2 - 2px);
+top: 350px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* Laporan */
+
+position: absolute;
+width: 66px;
+height: 24px;
+left: calc(50% - 66px/2 - 1px);
+top: 396px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* Penilaian */
+
+position: absolute;
+width: 74px;
+height: 24px;
+left: calc(50% - 74px/2 - 2px);
+top: 443px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* Pengaturan */
+
+position: absolute;
+width: 95px;
+height: 24px;
+left: calc(50% - 95px/2 - 1.5px);
+top: 488px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* Logout */
+
+position: absolute;
+width: 57px;
+height: 24px;
+left: calc(50% - 57px/2 - 5.5px);
+top: 1007px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* Vector 1 */
+
+position: absolute;
+width: 1204px;
+height: 0px;
+left: 234px;
+top: 121px;
+
+border: 1px solid #000000;
+
+
+/* Pengajuan Lokasi Magang Ajukan instansi atau perusahaan pilihan sendiri untuk tempat pelaksanaan magang. */
+
+position: absolute;
+width: 851px;
+height: 74px;
+left: 265px;
+top: 22px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 32px;
+line-height: 48px;
+
+color: #000000;
+
+
+
+/* Data Mahasiswa */
+
+position: absolute;
+width: 173px;
+height: 30px;
+left: 294px;
+top: 128px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 30px;
+/* identical to box height */
+
+color: #000000;
+
+
+
+/* Formulir Pengajuan Lokasi */
+
+position: absolute;
+width: 273px;
+height: 30px;
+left: 294px;
+top: 284px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 30px;
+/* identical to box height */
+
+color: #000000;
+
+
+
+/* Group 2 */
+
+position: absolute;
+width: 1087px;
+height: 123px;
+left: 294px;
+top: 161px;
+
+
+
+/* Frame 16 */
+
+position: absolute;
+width: 1087px;
+height: 123px;
+left: 294px;
+top: 161px;
+
+background: rgba(115, 115, 115, 0.65);
+border-radius: 10px;
+
+
+/* Rectangle 52 */
+
+position: absolute;
+width: 46px;
+height: 42px;
+left: 8px;
+top: 7px;
+
+background: #D9D9D9;
+border-radius: 100px;
+
+
+/* Informasi */
+
+position: absolute;
+width: 1064px;
+height: 30px;
+left: 29px;
+top: 16px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 30px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* Pastikan data instansi yang diajukan sudah benar. Pengajuan akan diperiksa oleh dosen atau tim akademik. */
+
+position: absolute;
+width: 1075px;
+height: 60px;
+left: 12px;
+top: 62px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 30px;
+
+color: #FFFFFF;
+
+
+
+/* Rectangle 53 */
+
+position: absolute;
+width: 38px;
+height: 35px;
+left: 12px;
+top: 11px;
+
+background: rgba(115, 115, 115, 0.466667);
+border-radius: 100px;
+
+
+/* Vector */
+
+position: absolute;
+left: 2.67%;
+right: 97.01%;
+top: 11.82%;
+bottom: 65.12%;
+
+background: #FFFFFF;
+
+
+/* Group 3 */
+
+position: absolute;
+width: 1087px;
+height: 636px;
+left: 291px;
+top: 317px;
+
+
+
+/* Frame 16 */
+
+position: absolute;
+width: 1087px;
+height: 636px;
+left: 291px;
+top: 317px;
+
+background: rgba(115, 115, 115, 0.65);
+border-radius: 10px;
+
+
+/* Nama Instansi / Perusahaan */
+
+position: absolute;
+width: 286px;
+height: 30px;
+left: 18px;
+top: 11px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 30px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* Alamat Instansi */
+
+position: absolute;
+width: 156px;
+height: 30px;
+left: 15px;
+top: 83px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 30px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* Nama Kontak / Pembimbing Instansi */
+
+position: absolute;
+width: 367px;
+height: 30px;
+left: 18px;
+top: 158px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 30px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* Nomor Telepon / Email Instansi */
+
+position: absolute;
+width: 310px;
+height: 30px;
+left: 15px;
+top: 232px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 30px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* Bidang Magang yang Diajukan */
+
+position: absolute;
+width: 309px;
+height: 30px;
+left: 15px;
+top: 303px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 30px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* Alasan Memilih Instansi */
+
+position: absolute;
+width: 235px;
+height: 30px;
+left: 15px;
+top: 373px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 30px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* Upload Surat Kesediaan / Dokumen Pendukung */
+
+position: absolute;
+width: 475px;
+height: 30px;
+left: 15px;
+top: 457px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 30px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* Frame 19 */
+
+position: absolute;
+width: 1059px;
+height: 41px;
+left: 13px;
+top: 41px;
+
+background: #656565;
+border-radius: 10px;
+
+
+/* Frame 20 */
+
+position: absolute;
+width: 1059px;
+height: 41px;
+left: 13px;
+top: 42px;
+
+background: #656565;
+border-radius: 10px;
+
+
+/* Frame 21 */
+
+position: absolute;
+width: 1059px;
+height: 41px;
+left: 13px;
+top: 114px;
+
+background: #656565;
+border-radius: 10px;
+
+
+/* Frame 22 */
+
+position: absolute;
+width: 1059px;
+height: 41px;
+left: 13px;
+top: 189px;
+
+background: #656565;
+border-radius: 10px;
+
+
+/* Frame 23 */
+
+position: absolute;
+width: 1059px;
+height: 41px;
+left: 13px;
+top: 263px;
+
+background: #656565;
+border-radius: 10px;
+
+
+/* Frame 25 */
+
+position: absolute;
+width: 1059px;
+height: 41px;
+left: 18px;
+top: 263px;
+
+background: #656565;
+border-radius: 10px;
+
+
+/* Frame 26 */
+
+position: absolute;
+width: 1059px;
+height: 41px;
+left: 13px;
+top: 334px;
+
+background: #656565;
+border-radius: 10px;
+
+
+/* Frame 27 */
+
+position: absolute;
+width: 1059px;
+height: 52px;
+left: 13px;
+top: 405px;
+
+background: #656565;
+border-radius: 10px;
+
+
+/* Frame 24 */
+
+position: absolute;
+width: 1059px;
+height: 131px;
+left: 13px;
+top: 490px;
+
+background: #656565;
+border-radius: 10px;
+
+
+/* Klik untuk mengunggah berkas PDF, maksimal 5 MB */
+
+position: absolute;
+width: 248px;
+height: 56px;
+left: calc(50% - 248px/2 - 30.5px);
+top: 60px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+
+color: #FFFFFF;
+
+
+
+/* cloud-upload-outline-rounded */
+
+position: absolute;
+width: 43px;
+height: 42px;
+left: 456px;
+top: 19px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 4.17%;
+right: 4.17%;
+top: 16.67%;
+bottom: 16.67%;
+
+background: #000000;
+
+
+/* Frame 25 */
+
+position: relative;
+width: 205px;
+height: 45px;
+left: 1176px;
+top: 964px;
+
+background: #0B2454;
+border-radius: 10px;
+
+
+/* Kirim Pengajuan */
+
+position: absolute;
+width: 164px;
+height: 30px;
+left: calc(50% - 164px/2 + 0.5px);
+top: 8px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 30px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* Frame 26 */
+
+position: relative;
+width: 130px;
+height: 45px;
+left: 1021px;
+top: 966px;
+
+background: #656565;
+border-radius: 10px;
+
+
+/* Batal */
+
+position: absolute;
+width: 52px;
+height: 30px;
+left: 39px;
+top: 8px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 30px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* dashboar Surat magang */
+
+position: relative;
+width: 1440px;
+height: 1024px;
+
+background: #E8EAF3;
+
+
+/* Frame 9 */
+
+position: relative;
+width: 234px;
+height: 1081px;
+left: 0px;
+top: -25px;
+
+background: #0B2454;
+border-radius: 10px;
+
+
+/* MENU */
+
+position: absolute;
+width: 105px;
+height: 54px;
+left: 71px;
+top: 55px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 36px;
+line-height: 54px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* iconoir:menu */
+
+position: absolute;
+left: 9.83%;
+right: 76.5%;
+top: 6.11%;
+bottom: 90.93%;
+
+background: #0B2454;
+
+
+/* Vector */
+
+position: absolute;
+left: 12.5%;
+right: 12.5%;
+top: 20.83%;
+bottom: 20.83%;
+
+border: 1.5px solid #FFFFFF;
+
+
+/* Dashboard */
+
+position: absolute;
+width: 90px;
+height: 24px;
+left: calc(50% - 90px/2 - 1px);
+top: 128px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* Informasi Magang */
+
+position: absolute;
+width: 147px;
+height: 24px;
+left: calc(50% - 147px/2 - 2.5px);
+top: 171px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* Pendaftaran Magang */
+
+position: absolute;
+width: 172px;
+height: 24px;
+left: calc(50% - 172px/2 - 2px);
+top: 216px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* Pengajuan Lokasi */
+
+position: absolute;
+width: 140px;
+height: 24px;
+left: calc(50% - 140px/2);
+top: 258px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* Surat Magang */
+
+position: absolute;
+width: 118px;
+height: 24px;
+left: calc(50% - 118px/2);
+top: 304px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* Bimbingan */
+
+position: absolute;
+width: 88px;
+height: 24px;
+left: calc(50% - 88px/2 - 2px);
+top: 350px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* Laporan */
+
+position: absolute;
+width: 66px;
+height: 24px;
+left: calc(50% - 66px/2 - 1px);
+top: 396px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* Penilaian */
+
+position: absolute;
+width: 74px;
+height: 24px;
+left: calc(50% - 74px/2 - 2px);
+top: 443px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* Pengaturan */
+
+position: absolute;
+width: 95px;
+height: 24px;
+left: calc(50% - 95px/2 - 1.5px);
+top: 488px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* Logout */
+
+position: absolute;
+width: 57px;
+height: 24px;
+left: calc(50% - 57px/2 - 5.5px);
+top: 1007px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* Vector 1 */
+
+position: absolute;
+width: 1204px;
+height: 0px;
+left: 234px;
+top: 121px;
+
+border: 1px solid #000000;
+
+
+/* Surat Magang Ajukan permohonan surat pengantar magang dan pantau status penerbitannya. */
+
+position: absolute;
+width: 816px;
+height: 74px;
+left: 265px;
+top: 22px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 32px;
+line-height: 48px;
+
+color: #000000;
+
+
+
+/* Data Mahasiswa */
+
+position: absolute;
+width: 173px;
+height: 30px;
+left: 294px;
+top: 128px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 30px;
+/* identical to box height */
+
+color: #000000;
+
+
+
+/* Riwayat Permohonan Surat */
+
+position: absolute;
+width: 283px;
+height: 30px;
+left: 294px;
+top: 825px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 30px;
+/* identical to box height */
+
+color: #000000;
+
+
+
+/* Rectangle 55 */
+
+position: absolute;
+width: 180px;
+height: 24px;
+left: 305px;
+top: 940px;
+
+background: rgba(255, 159, 5, 0.42);
+border-radius: 20px;
+
+
+/* Formulir Permohonan Surat */
+
+position: absolute;
+width: 286px;
+height: 30px;
+left: 294px;
+top: 263px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 30px;
+/* identical to box height */
+
+color: #000000;
+
+
+
+/* Group 2 */
+
+position: absolute;
+width: 1087px;
+height: 97px;
+left: 294px;
+top: 161px;
+
+
+
+/* Frame 16 */
+
+position: absolute;
+width: 1087px;
+height: 97px;
+left: 294px;
+top: 161px;
+
+background: rgba(115, 115, 115, 0.65);
+border-radius: 10px;
+
+
+/* Rectangle 52 */
+
+position: absolute;
+width: 46px;
+height: 42px;
+left: 8px;
+top: 7px;
+
+background: #D9D9D9;
+border-radius: 100px;
+
+
+/* Informasi Surat */
+
+position: absolute;
+width: 1064px;
+height: 30px;
+left: 29px;
+top: 16px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 30px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* Permohonan surat dapat diproses setelah pengajuan magang disetujui oleh pihak terkait. */
+
+position: absolute;
+width: 1075px;
+height: 30px;
+left: 12px;
+top: 62px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 30px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* Rectangle 53 */
+
+position: absolute;
+width: 38px;
+height: 35px;
+left: 12px;
+top: 11px;
+
+background: rgba(115, 115, 115, 0.466667);
+border-radius: 100px;
+
+
+/* Vector */
+
+position: absolute;
+left: 2.67%;
+right: 97.01%;
+top: 15.95%;
+bottom: 61%;
+
+background: #FFFFFF;
+
+
+/* Group 3 */
+
+position: absolute;
+width: 1087px;
+height: 526px;
+left: 291px;
+top: 299px;
+
+
+
+/* Frame 16 */
+
+position: absolute;
+width: 1087px;
+height: 526px;
+left: 291px;
+top: 299px;
+
+background: rgba(115, 115, 115, 0.65);
+border-radius: 10px;
+
+
+/* Nama Mahasiswa */
+
+position: absolute;
+width: 180px;
+height: 30px;
+left: 18px;
+top: 11px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 30px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* NIM */
+
+position: absolute;
+width: 37px;
+height: 30px;
+left: 15px;
+top: 83px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 30px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* Instansi Tujuan */
+
+position: absolute;
+width: 151px;
+height: 30px;
+left: 18px;
+top: 158px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 30px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* Alamat Instansi */
+
+position: absolute;
+width: 156px;
+height: 30px;
+left: 15px;
+top: 232px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 30px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* Periode Magang */
+
+position: absolute;
+width: 165px;
+height: 30px;
+left: 15px;
+top: 303px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 30px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* Keperluan Surat */
+
+position: absolute;
+width: 160px;
+height: 30px;
+left: 15px;
+top: 373px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 30px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* Frame 19 */
+
+position: absolute;
+width: 1059px;
+height: 41px;
+left: 13px;
+top: 41px;
+
+background: #656565;
+border-radius: 10px;
+
+
+/* Frame 20 */
+
+position: absolute;
+width: 1059px;
+height: 41px;
+left: 13px;
+top: 42px;
+
+background: #656565;
+border-radius: 10px;
+
+
+/* Frame 21 */
+
+position: absolute;
+width: 1059px;
+height: 41px;
+left: 13px;
+top: 114px;
+
+background: #656565;
+border-radius: 10px;
+
+
+/* Frame 22 */
+
+position: absolute;
+width: 1059px;
+height: 41px;
+left: 13px;
+top: 189px;
+
+background: #656565;
+border-radius: 10px;
+
+
+/* Frame 23 */
+
+position: absolute;
+width: 1059px;
+height: 41px;
+left: 13px;
+top: 263px;
+
+background: #656565;
+border-radius: 10px;
+
+
+/* Frame 25 */
+
+position: absolute;
+width: 1059px;
+height: 41px;
+left: 18px;
+top: 263px;
+
+background: #656565;
+border-radius: 10px;
+
+
+/* Frame 26 */
+
+position: absolute;
+width: 534px;
+height: 41px;
+left: 13px;
+top: 334px;
+
+background: #656565;
+border-radius: 10px;
+
+
+/* Frame 28 */
+
+position: absolute;
+width: 516px;
+height: 41px;
+left: 556px;
+top: 332px;
+
+background: #656565;
+border-radius: 10px;
+
+
+/* Frame 27 */
+
+position: absolute;
+width: 1059px;
+height: 52px;
+left: 13px;
+top: 405px;
+
+background: #656565;
+border-radius: 10px;
+
+
+/* Frame 25 */
+
+position: absolute;
+width: 205px;
+height: 45px;
+left: 867px;
+top: 473px;
+
+background: #0B2454;
+border-radius: 10px;
+
+
+/* Ajukan Surat */
+
+position: absolute;
+width: 126px;
+height: 30px;
+left: calc(50% - 126px/2 + 0.5px);
+top: 8px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 30px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* Rectangle 54 */
+
+position: absolute;
+width: 1084px;
+height: 160px;
+left: 294px;
+top: 855px;
+
+background: rgba(115, 115, 115, 0.65);
+border-radius: 10px;
+
+
+/* Surat Pengantar Magang */
+
+position: absolute;
+width: 260px;
+height: 30px;
+left: 304px;
+top: 863px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 30px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* Sedang Diproses */
+
+position: absolute;
+width: 173px;
+height: 30px;
+left: 309px;
+top: 937px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 30px;
+/* identical to box height */
+
+color: #FF9F05;
+
+
+
+/* Vector 4 */
+
+position: absolute;
+width: 1053px;
+height: 0px;
+left: 306.5px;
+top: 976px;
+
+border: 1px solid #FFFFFF;
+
+
+/* Kementerian Pekerjaan Umum */
+
+position: absolute;
+width: 245px;
+height: 24px;
+left: 307px;
+top: 903px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* 01/11/2026 */
+
+position: absolute;
+width: 100px;
+height: 30px;
+left: 1244px;
+top: 940px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 30px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* Nomor surat: Belum tersedia */
+
+position: absolute;
+width: 228px;
+height: 24px;
+left: 309px;
+top: 982px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* Detail */
+
+position: absolute;
+width: 46px;
+height: 24px;
+left: 1277px;
+top: 982px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height */
+
+color: #0032FA;
+
+
+
+/* dashboar Bimbingan magang */
+
+position: relative;
+width: 1440px;
+height: 1024px;
+
+background: #E8EAF3;
+
+
+/* Frame 9 */
+
+position: relative;
+width: 234px;
+height: 1081px;
+left: 0px;
+top: -25px;
+
+background: #0B2454;
+border-radius: 10px;
+
+
+/* MENU */
+
+position: absolute;
+width: 105px;
+height: 54px;
+left: 71px;
+top: 55px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 36px;
+line-height: 54px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* iconoir:menu */
+
+position: absolute;
+left: 9.83%;
+right: 76.5%;
+top: 6.11%;
+bottom: 90.93%;
+
+background: #0B2454;
+
+
+/* Vector */
+
+position: absolute;
+left: 12.5%;
+right: 12.5%;
+top: 20.83%;
+bottom: 20.83%;
+
+border: 1.5px solid #FFFFFF;
+
+
+/* Dashboard */
+
+position: absolute;
+width: 90px;
+height: 24px;
+left: calc(50% - 90px/2 - 1px);
+top: 128px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* Informasi Magang */
+
+position: absolute;
+width: 147px;
+height: 24px;
+left: calc(50% - 147px/2 - 2.5px);
+top: 171px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* Pendaftaran Magang */
+
+position: absolute;
+width: 172px;
+height: 24px;
+left: calc(50% - 172px/2 - 2px);
+top: 216px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* Pengajuan Lokasi */
+
+position: absolute;
+width: 140px;
+height: 24px;
+left: calc(50% - 140px/2);
+top: 258px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* Surat Magang */
+
+position: absolute;
+width: 114px;
+height: 24px;
+left: calc(50% - 114px/2 - 2px);
+top: 304px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* Bimbingan */
+
+position: absolute;
+width: 92px;
+height: 24px;
+left: calc(50% - 92px/2);
+top: 350px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* Laporan */
+
+position: absolute;
+width: 66px;
+height: 24px;
+left: calc(50% - 66px/2 - 1px);
+top: 396px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* Penilaian */
+
+position: absolute;
+width: 74px;
+height: 24px;
+left: calc(50% - 74px/2 - 2px);
+top: 443px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* Pengaturan */
+
+position: absolute;
+width: 95px;
+height: 24px;
+left: calc(50% - 95px/2 - 1.5px);
+top: 488px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* Logout */
+
+position: absolute;
+width: 57px;
+height: 24px;
+left: calc(50% - 57px/2 - 5.5px);
+top: 1007px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* Vector 1 */
+
+position: absolute;
+width: 1204px;
+height: 0px;
+left: 234px;
+top: 121px;
+
+border: 1px solid #000000;
+
+
+/* Bimbingan Magang Kelola jadwal konsultasi dan pantau perkembangan bimbingan magang. */
+
+position: absolute;
+width: 737px;
+height: 74px;
+left: 265px;
+top: 22px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 32px;
+line-height: 48px;
+
+color: #000000;
+
+
+
+/* Ajukan Jadwal Bimbingan */
+
+position: absolute;
+width: 272px;
+height: 30px;
+left: 294px;
+top: 433px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 30px;
+/* identical to box height */
+
+color: #000000;
+
+
+
+/* Riwayat Bimbingan */
+
+position: absolute;
+width: 203px;
+height: 30px;
+left: 294px;
+top: 855px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 30px;
+/* identical to box height */
+
+color: #000000;
+
+
+
+/* Group 2 */
+
+position: absolute;
+width: 1087px;
+height: 163px;
+left: 294px;
+top: 134px;
+
+
+
+/* Frame 16 */
+
+position: absolute;
+width: 1087px;
+height: 163px;
+left: 294px;
+top: 134px;
+
+background: rgba(115, 115, 115, 0.65);
+border-radius: 10px;
+
+
+/* Dosen Pembimbing */
+
+position: absolute;
+width: 199px;
+height: 30px;
+left: 18px;
+top: 12px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 30px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* Nama Dosen Pembimbing Program Studi Sistem Informasi Email: dosen@kampus.ac.id */
+
+position: absolute;
+width: 342px;
+height: 90px;
+left: 152px;
+top: 52px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 30px;
+
+color: #FFFFFF;
+
+
+
+/* account */
+
+position: absolute;
+width: 91px;
+height: 82px;
+left: 26px;
+top: 52px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 25.27%;
+right: 8.06%;
+top: 17.07%;
+bottom: 16.26%;
+
+background: #000000;
+
+
+/* Group 5 */
+
+position: absolute;
+width: 523px;
+height: 120px;
+left: 294px;
+top: 313px;
+
+
+
+/* Frame 16 */
+
+position: absolute;
+width: 523px;
+height: 120px;
+left: 294px;
+top: 313px;
+
+background: rgba(115, 115, 115, 0.65);
+border-radius: 10px;
+
+
+/* 5 Total Bimbingan */
+
+position: absolute;
+width: 175px;
+height: 60px;
+left: 32px;
+top: 46px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 30px;
+
+color: #FFFFFF;
+
+
+
+/* date-range */
+
+position: absolute;
+width: 41px;
+height: 34px;
+left: 22px;
+top: 11px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 12.5%;
+right: 12.5%;
+top: 8.33%;
+bottom: 8.33%;
+
+background: #000000;
+
+
+/* Frame 17 */
+
+position: relative;
+width: 1087px;
+height: 120px;
+left: 294px;
+top: 888px;
+
+background: rgba(115, 115, 115, 0.65);
+border-radius: 10px;
+
+
+/* Konsultasi Laporan 28 Oktober 2026 • 10.00 WIB Metode: Tatap Muka */
+
+position: absolute;
+width: 218px;
+height: 77px;
+left: 20px;
+top: 14px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 30px;
+
+color: #FFFFFF;
+
+
+
+/* Frame 30 */
+
+position: absolute;
+width: 80px;
+height: 23px;
+left: 989px;
+top: 25px;
+
+background: rgba(0, 63, 5, 0.19);
+border-radius: 20px;
+
+
+/* Selesai */
+
+position: absolute;
+width: 71px;
+height: 30px;
+left: 995px;
+top: 21px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 30px;
+/* identical to box height */
+
+color: #00FF15;
+
+
+
+/* Group 6 */
+
+position: absolute;
+width: 509px;
+height: 120px;
+left: 872px;
+top: 313px;
+
+
+
+/* Frame 16 */
+
+position: absolute;
+width: 509px;
+height: 120px;
+left: 872px;
+top: 313px;
+
+background: rgba(115, 115, 115, 0.65);
+border-radius: 10px;
+
+
+/* 3 Selesai */
+
+position: absolute;
+width: 175px;
+height: 60px;
+left: 32px;
+top: 46px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 30px;
+
+color: #FFFFFF;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 5.3%;
+right: 89.39%;
+top: 15%;
+bottom: 61.67%;
+
+background: #FFFFFF;
+
+
+/* Group 3 */
+
+position: absolute;
+width: 1087px;
+height: 390px;
+left: 294px;
+top: 463px;
+
+
+
+/* Frame 16 */
+
+position: absolute;
+width: 1087px;
+height: 390px;
+left: 294px;
+top: 463px;
+
+background: rgba(115, 115, 115, 0.65);
+border-radius: 10px;
+
+
+/* Tanggal Bimbingan */
+
+position: absolute;
+width: 197px;
+height: 30px;
+left: 18px;
+top: 11px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 30px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* Waktu Bimbingan */
+
+position: absolute;
+width: 178px;
+height: 30px;
+left: 15px;
+top: 83px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 30px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* Metode Bimbingan */
+
+position: absolute;
+width: 190px;
+height: 30px;
+left: 18px;
+top: 158px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 30px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* Topik / Keperluan Bimbingan */
+
+position: absolute;
+width: 289px;
+height: 30px;
+left: 15px;
+top: 232px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 30px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* Frame 19 */
+
+position: absolute;
+width: 1059px;
+height: 41px;
+left: 13px;
+top: 41px;
+
+background: #656565;
+border-radius: 10px;
+
+
+/* Frame 20 */
+
+position: absolute;
+width: 1059px;
+height: 41px;
+left: 13px;
+top: 42px;
+
+background: #656565;
+border-radius: 10px;
+
+
+/* Frame 21 */
+
+position: absolute;
+width: 1059px;
+height: 41px;
+left: 13px;
+top: 114px;
+
+background: #656565;
+border-radius: 10px;
+
+
+/* Frame 22 */
+
+position: absolute;
+width: 1059px;
+height: 41px;
+left: 13px;
+top: 189px;
+
+background: #656565;
+border-radius: 10px;
+
+
+/* Frame 23 */
+
+position: absolute;
+width: 1059px;
+height: 63px;
+left: 13px;
+top: 263px;
+
+background: #656565;
+border-radius: 10px;
+
+
+/* Frame 25 */
+
+position: absolute;
+width: 205px;
+height: 45px;
+left: 867px;
+top: 473px;
+
+background: #0B2454;
+border-radius: 10px;
+
+
+/* Ajukan Surat */
+
+position: absolute;
+width: 126px;
+height: 30px;
+left: calc(50% - 126px/2 + 0.5px);
+top: 8px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 30px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* Frame 29 */
+
+position: absolute;
+width: 205px;
+height: 45px;
+left: 867px;
+top: 336px;
+
+background: #0B2454;
+border-radius: 10px;
+
+
+/* Ajukan Bimbingan */
+
+position: absolute;
+width: 183px;
+height: 30px;
+left: calc(50% - 183px/2 + 3px);
+top: 8px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 30px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* dashboar Laporan magang */
+
+position: relative;
+width: 1440px;
+height: 1024px;
+
+background: #E8EAF3;
+
+
+/* Frame 9 */
+
+position: relative;
+width: 234px;
+height: 1081px;
+left: 0px;
+top: -25px;
+
+background: #0B2454;
+border-radius: 10px;
+
+
+/* MENU */
+
+position: absolute;
+width: 105px;
+height: 54px;
+left: 71px;
+top: 55px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 36px;
+line-height: 54px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* iconoir:menu */
+
+position: absolute;
+left: 9.83%;
+right: 76.5%;
+top: 6.11%;
+bottom: 90.93%;
+
+background: #0B2454;
+
+
+/* Vector */
+
+position: absolute;
+left: 12.5%;
+right: 12.5%;
+top: 20.83%;
+bottom: 20.83%;
+
+border: 1.5px solid #FFFFFF;
+
+
+/* Dashboard */
+
+position: absolute;
+width: 90px;
+height: 24px;
+left: calc(50% - 90px/2 - 1px);
+top: 128px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* Informasi Magang */
+
+position: absolute;
+width: 147px;
+height: 24px;
+left: calc(50% - 147px/2 - 2.5px);
+top: 171px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* Pendaftaran Magang */
+
+position: absolute;
+width: 172px;
+height: 24px;
+left: calc(50% - 172px/2 - 2px);
+top: 216px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* Pengajuan Lokasi */
+
+position: absolute;
+width: 140px;
+height: 24px;
+left: calc(50% - 140px/2);
+top: 258px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* Surat Magang */
+
+position: absolute;
+width: 114px;
+height: 24px;
+left: calc(50% - 114px/2 - 2px);
+top: 304px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* Laporan */
+
+position: absolute;
+width: 69px;
+height: 24px;
+left: calc(50% - 69px/2 + 0.5px);
+top: 396px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* Penilaian */
+
+position: absolute;
+width: 74px;
+height: 24px;
+left: calc(50% - 74px/2 - 2px);
+top: 443px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* Pengaturan */
+
+position: absolute;
+width: 95px;
+height: 24px;
+left: calc(50% - 95px/2 - 1.5px);
+top: 488px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* Logout */
+
+position: absolute;
+width: 57px;
+height: 24px;
+left: calc(50% - 57px/2 - 5.5px);
+top: 1007px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* Bimbingan */
+
+position: absolute;
+width: 88px;
+height: 24px;
+left: calc(50% - 88px/2 - 8px);
+top: 352px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* Vector 1 */
+
+position: absolute;
+width: 1204px;
+height: 0px;
+left: 234px;
+top: 121px;
+
+border: 1px solid #000000;
+
+
+/* Laporan Magang Pengumpulan dan pemantauan laporan kegiatan magang */
+
+position: absolute;
+width: 595px;
+height: 74px;
+left: 265px;
+top: 20px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 32px;
+line-height: 48px;
+
+color: #000000;
+
+
+
+/* Informasi Laporan */
+
+position: absolute;
+width: 189px;
+height: 30px;
+left: 289px;
+top: 237px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 30px;
+/* identical to box height */
+
+color: #000000;
+
+
+
+/* Laporan Saya */
+
+position: absolute;
+width: 142px;
+height: 30px;
+left: 289px;
+top: 127px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 30px;
+/* identical to box height */
+
+color: #000000;
+
+
+
+/* Laporan Perlu di revisi */
+
+position: absolute;
+width: 227px;
+height: 30px;
+left: 289px;
+top: 696px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 30px;
+/* identical to box height */
+
+color: #000000;
+
+
+
+/* Dokumen Laporan */
+
+position: absolute;
+width: 190px;
+height: 30px;
+left: 294px;
+top: 523px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 30px;
+/* identical to box height */
+
+color: #000000;
+
+
+
+/* Dokumen Laporan */
+
+position: absolute;
+width: 190px;
+height: 30px;
+left: 294px;
+top: 523px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 30px;
+/* identical to box height */
+
+color: #000000;
+
+
+
+/* Dokumen Laporan */
+
+position: absolute;
+width: 190px;
+height: 30px;
+left: 294px;
+top: 523px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 30px;
+/* identical to box height */
+
+color: #000000;
+
+
+
+/* Group 2 */
+
+position: absolute;
+width: 1087px;
+height: 82px;
+left: 289px;
+top: 155px;
+
+
+
+/* Frame 16 */
+
+position: absolute;
+width: 1087px;
+height: 82px;
+left: 289px;
+top: 155px;
+
+background: rgba(115, 115, 115, 0.65);
+border-radius: 10px;
+
+
+/* 2 Terkirim */
+
+position: absolute;
+width: 199px;
+height: 60px;
+left: 18px;
+top: 12px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 30px;
+
+color: #FFFFFF;
+
+
+
+/* Frame 17 */
+
+position: relative;
+width: 1087px;
+height: 120px;
+left: 289px;
+top: 734px;
+
+background: rgba(115, 115, 115, 0.65);
+border-radius: 10px;
+
+
+/* Revisi Laporan Periode: Oktober 2026 Revisi:.................. */
+
+position: absolute;
+width: 175px;
+height: 77px;
+left: 20px;
+top: 14px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 30px;
+
+color: #FFFFFF;
+
+
+
+/* Detail */
+
+position: absolute;
+width: 58px;
+height: 30px;
+left: 958px;
+top: 46px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 30px;
+/* identical to box height */
+
+color: #040404;
+
+
+
+/* Frame 18 */
+
+position: relative;
+width: 1087px;
+height: 120px;
+left: 289px;
+top: 275px;
+
+background: rgba(115, 115, 115, 0.65);
+border-radius: 10px;
+
+
+/* Laporan Kegiatan Magang Periode: Oktober 2026 Sudah dikirim */
+
+position: absolute;
+width: 275px;
+height: 90px;
+left: 20px;
+top: 14px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 30px;
+
+color: #FFFFFF;
+
+
+
+/* Frame 19 */
+
+position: relative;
+width: 1087px;
+height: 120px;
+left: 289px;
+top: 403px;
+
+background: rgba(115, 115, 115, 0.65);
+border-radius: 10px;
+
+
+/* Laporan Akhir Magang Periode: November 2026 Belum dikirim */
+
+position: absolute;
+width: 243px;
+height: 90px;
+left: 20px;
+top: 14px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 30px;
+
+color: #FFFFFF;
+
+
+
+/* Frame 20 */
+
+position: relative;
+width: 1087px;
+height: 137px;
+left: 289px;
+top: 553px;
+
+background: rgba(115, 115, 115, 0.65);
+border-radius: 10px;
+
+
+/* Laporan_Akhir_Magang.pdf */
+
+position: absolute;
+width: 298px;
+height: 30px;
+left: calc(50% - 298px/2 + 0.5px);
+top: 51px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 30px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* Frame 27 */
+
+position: absolute;
+width: 1055px;
+height: 45px;
+left: 18px;
+top: 81px;
+
+background: #656565;
+border-radius: 10px;
+
+
+/* Kirim */
+
+position: absolute;
+width: 50px;
+height: 30px;
+left: calc(50% - 50px/2 + 0.5px);
+top: 8px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 30px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* baseline-file-open */
+
+position: absolute;
+width: 42px;
+height: 34px;
+left: calc(50% - 42px/2 + 0.5px);
+top: 9px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 16.67%;
+right: 2.62%;
+top: 8.33%;
+bottom: 6.83%;
+
+background: #000000;
+
+
+/* dashboar Penilaian magang */
+
+position: relative;
+width: 1440px;
+height: 1024px;
+
+background: #E8EAF3;
+
+
+/* Frame 9 */
+
+position: absolute;
+width: 234px;
+height: 1081px;
+left: 0px;
+top: -25px;
+
+background: #0B2454;
+border-radius: 10px;
+
+
+/* MENU */
+
+position: absolute;
+width: 105px;
+height: 54px;
+left: 71px;
+top: 55px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 36px;
+line-height: 54px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* iconoir:menu */
+
+position: absolute;
+left: 9.83%;
+right: 76.5%;
+top: 6.11%;
+bottom: 90.93%;
+
+background: #0B2454;
+
+
+/* Vector */
+
+position: absolute;
+left: 12.5%;
+right: 12.5%;
+top: 20.83%;
+bottom: 20.83%;
+
+border: 1.5px solid #FFFFFF;
+
+
+/* Dashboard */
+
+position: absolute;
+width: 90px;
+height: 24px;
+left: calc(50% - 90px/2 - 1px);
+top: 128px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* Informasi Magang */
+
+position: absolute;
+width: 147px;
+height: 24px;
+left: calc(50% - 147px/2 - 2.5px);
+top: 171px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* Pendaftaran Magang */
+
+position: absolute;
+width: 172px;
+height: 24px;
+left: calc(50% - 172px/2 - 2px);
+top: 216px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* Pengajuan Lokasi */
+
+position: absolute;
+width: 140px;
+height: 24px;
+left: calc(50% - 140px/2);
+top: 258px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* Surat Magang */
+
+position: absolute;
+width: 114px;
+height: 24px;
+left: calc(50% - 114px/2 - 2px);
+top: 304px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* Laporan */
+
+position: absolute;
+width: 66px;
+height: 24px;
+left: calc(50% - 66px/2 - 1px);
+top: 396px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* Penilaian */
+
+position: absolute;
+width: 78px;
+height: 24px;
+left: calc(50% - 78px/2);
+top: 443px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* Pengaturan */
+
+position: absolute;
+width: 95px;
+height: 24px;
+left: calc(50% - 95px/2 - 1.5px);
+top: 488px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* Logout */
+
+position: absolute;
+width: 57px;
+height: 24px;
+left: calc(50% - 57px/2 - 5.5px);
+top: 1007px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* Bimbingan */
+
+position: absolute;
+width: 88px;
+height: 24px;
+left: calc(50% - 88px/2 - 8px);
+top: 352px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* Vector 1 */
+
+position: absolute;
+width: 1204px;
+height: 0px;
+left: 234px;
+top: 121px;
+
+border: 1px solid #000000;
+
+
+/* Hasil Penilaian Magang Evaluasi hasil kegiatan magang mahasiswa bimbingan */
+
+position: absolute;
+width: 557px;
+height: 74px;
+left: 262px;
+top: 21px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 32px;
+line-height: 48px;
+
+color: #000000;
+
+
+
+/* Rincian Penilain */
+
+position: absolute;
+width: 165px;
+height: 30px;
+left: 289px;
+top: 285px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 30px;
+/* identical to box height */
+
+color: #000000;
+
+
+
+/* Ringkasan Nilai */
+
+position: absolute;
+width: 161px;
+height: 30px;
+left: 289px;
+top: 127px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 30px;
+/* identical to box height */
+
+color: #000000;
+
+
+
+/* Group 2 */
+
+position: absolute;
+width: 1087px;
+height: 124px;
+left: 289px;
+top: 157px;
+
+
+
+/* Frame 16 */
+
+position: absolute;
+width: 1087px;
+height: 124px;
+left: 289px;
+top: 157px;
+
+background: rgba(115, 115, 115, 0.65);
+border-radius: 10px;
+
+
+/* Nilai Akhir Magang 88 A - Sangat Baik */
+
+position: absolute;
+width: 199px;
+height: 90px;
+left: calc(50% - 199px/2);
+top: 12px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 30px;
+
+color: #FFFFFF;
+
+
+
+/* Frame 20 */
+
+position: absolute;
+width: 1087px;
+height: 45px;
+left: 286px;
+top: 369px;
+
+background: rgba(115, 115, 115, 0.65);
+border-radius: 10px;
+
+
+/* Tanggung Jawab */
+
+position: absolute;
+width: 177px;
+height: 30px;
+left: 28px;
+top: 7px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 30px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* 90 */
+
+position: absolute;
+width: 26px;
+height: 30px;
+left: 991px;
+top: 7px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 30px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* Frame 21 */
+
+position: absolute;
+width: 1087px;
+height: 45px;
+left: 288px;
+top: 420px;
+
+background: rgba(115, 115, 115, 0.65);
+border-radius: 10px;
+
+
+/* Kerja Sama */
+
+position: absolute;
+width: 116px;
+height: 30px;
+left: 30px;
+top: 8px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 30px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* 90 */
+
+position: absolute;
+width: 26px;
+height: 30px;
+left: 990px;
+top: 7px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 30px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* Frame 22 */
+
+position: absolute;
+width: 1087px;
+height: 45px;
+left: 289px;
+top: 470px;
+
+background: rgba(115, 115, 115, 0.65);
+border-radius: 10px;
+
+
+/* Kemampuan Kerja */
+
+position: absolute;
+width: 188px;
+height: 30px;
+left: 26px;
+top: 7px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 30px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* 90 */
+
+position: absolute;
+width: 26px;
+height: 30px;
+left: 990px;
+top: 7px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 30px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* Keterangan Nilai telah dipublikasikan oleh dosen pembimbing. */
+
+position: absolute;
+width: 504px;
+height: 60px;
+left: 294px;
+top: 525px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 30px;
+
+color: #000000;
+
+
+
+/* dashboar setting magang */
+
+position: relative;
+width: 1440px;
+height: 1024px;
+
+background: #E8EAF3;
+
+
+/* Frame 9 */
+
+position: absolute;
+width: 234px;
+height: 1081px;
+left: 0px;
+top: -25px;
+
+background: #0B2454;
+border-radius: 10px;
+
+
+/* MENU */
+
+position: absolute;
+width: 105px;
+height: 54px;
+left: 71px;
+top: 55px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 36px;
+line-height: 54px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* iconoir:menu */
+
+position: absolute;
+left: 9.83%;
+right: 76.5%;
+top: 6.11%;
+bottom: 90.93%;
+
+background: #0B2454;
+
+
+/* Vector */
+
+position: absolute;
+left: 12.5%;
+right: 12.5%;
+top: 20.83%;
+bottom: 20.83%;
+
+border: 1.5px solid #FFFFFF;
+
+
+/* Dashboard */
+
+position: absolute;
+width: 90px;
+height: 24px;
+left: calc(50% - 90px/2 - 1px);
+top: 128px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* Informasi Magang */
+
+position: absolute;
+width: 147px;
+height: 24px;
+left: calc(50% - 147px/2 - 2.5px);
+top: 171px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* Pendaftaran Magang */
+
+position: absolute;
+width: 172px;
+height: 24px;
+left: calc(50% - 172px/2 - 2px);
+top: 216px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* Pengajuan Lokasi */
+
+position: absolute;
+width: 140px;
+height: 24px;
+left: calc(50% - 140px/2);
+top: 258px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* Surat Magang */
+
+position: absolute;
+width: 114px;
+height: 24px;
+left: calc(50% - 114px/2 - 2px);
+top: 304px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* Laporan */
+
+position: absolute;
+width: 66px;
+height: 24px;
+left: calc(50% - 66px/2 - 1px);
+top: 396px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* Penilaian */
+
+position: absolute;
+width: 74px;
+height: 24px;
+left: calc(50% - 74px/2 - 2px);
+top: 443px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* Pengaturan */
+
+position: absolute;
+width: 99px;
+height: 24px;
+left: calc(50% - 99px/2 + 0.5px);
+top: 488px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* Logout */
+
+position: absolute;
+width: 57px;
+height: 24px;
+left: calc(50% - 57px/2 - 5.5px);
+top: 1007px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* Bimbingan */
+
+position: absolute;
+width: 88px;
+height: 24px;
+left: calc(50% - 88px/2 - 8px);
+top: 352px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* Vector 1 */
+
+position: absolute;
+width: 1204px;
+height: 0px;
+left: 234px;
+top: 121px;
+
+border: 1px solid #000000;
+
+
+/* Pengaturan Akun */
+
+position: absolute;
+width: 290px;
+height: 48px;
+left: 262px;
+top: 31px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 32px;
+line-height: 48px;
+/* identical to box height */
+
+color: #000000;
+
+
+
+/* Informasi Akun */
+
+position: absolute;
+width: 158px;
+height: 30px;
+left: 289px;
+top: 315px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 30px;
+/* identical to box height */
+
+color: #000000;
+
+
+
+/* Vector 5 */
+
+position: absolute;
+width: 1156px;
+height: 0px;
+left: 252px;
+top: 304px;
+
+border: 1px solid #000000;
+
+
+/* Vector 6 */
+
+position: absolute;
+width: 1156px;
+height: 0px;
+left: 252px;
+top: 304px;
+
+border: 1px solid #000000;
+
+
+/* Vector 7 */
+
+position: absolute;
+width: 1156px;
+height: 0px;
+left: 252px;
+top: 304px;
+
+border: 1px solid #000000;
+
+
+/* Vector 8 */
+
+position: absolute;
+width: 1156px;
+height: 0px;
+left: 255px;
+top: 678px;
+
+border: 1px solid #000000;
+
+
+/* Foto Pengguna */
+
+position: absolute;
+width: 155px;
+height: 30px;
+left: 289px;
+top: 127px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 30px;
+/* identical to box height */
+
+color: #000000;
+
+
+
+/* Notifikasi Notifikasi Email */
+
+position: absolute;
+width: 150px;
+height: 90px;
+left: 289px;
+top: 701px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 30px;
+
+color: #000000;
+
+
+
+/* Vector */
+
+position: absolute;
+width: 60.67px;
+left: calc(50% - 60.67px/2 + 92.33px);
+top: 15.53%;
+bottom: 79.13%;
+
+background: #000000;
+
+
+/* Andi Saputra Mahasiswa */
+
+position: absolute;
+width: 136px;
+height: 60px;
+left: 745px;
+top: 235px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 30px;
+
+color: #000000;
+
+
+
+/* Frame 19 */
+
+position: absolute;
+width: 1087px;
+height: 40px;
+left: calc(50% - 1087px/2 + 112.5px);
+top: 368px;
+
+background: rgba(115, 115, 115, 0.65);
+border-radius: 10px;
+
+
+/* Andi Saputra */
+
+position: absolute;
+width: 130px;
+height: 30px;
+left: 26px;
+top: 4px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 30px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* Frame 20 */
+
+position: absolute;
+width: 1087px;
+height: 40px;
+left: calc(50% - 1087px/2 + 112.5px);
+top: 440px;
+
+background: rgba(115, 115, 115, 0.65);
+border-radius: 10px;
+
+
+/* 2417020112 */
+
+position: absolute;
+width: 103px;
+height: 30px;
+left: 33px;
+top: 4px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 30px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* 2417020112 */
+
+position: absolute;
+width: 103px;
+height: 30px;
+left: 33px;
+top: 4px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 30px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* Frame 21 */
+
+position: absolute;
+width: 1087px;
+height: 40px;
+left: calc(50% - 1087px/2 + 112.5px);
+top: 517px;
+
+background: rgba(115, 115, 115, 0.65);
+border-radius: 10px;
+
+
+/* Sistem Informasi */
+
+position: absolute;
+width: 167px;
+height: 30px;
+left: 33px;
+top: 4px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 30px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* Frame 22 */
+
+position: absolute;
+width: 1087px;
+height: 40px;
+left: calc(50% - 1087px/2 + 112.5px);
+top: 591px;
+
+background: rgba(115, 115, 115, 0.65);
+border-radius: 10px;
+
+
+/* aaa@gmail.com */
+
+position: absolute;
+width: 169px;
+height: 30px;
+left: 33px;
+top: 4px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 30px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* NIM */
+
+position: absolute;
+width: 37px;
+height: 30px;
+left: 294px;
+top: 408px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 30px;
+/* identical to box height */
+
+color: #000000;
+
+
+
+/* Program Studi */
+
+position: absolute;
+width: 143px;
+height: 30px;
+left: 294px;
+top: 483px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 30px;
+/* identical to box height */
+
+color: #000000;
+
+
+
+/* Frame 35 */
+
+position: absolute;
+width: 46px;
+height: 29px;
+left: 1323px;
+top: 764px;
+
+background: rgba(0, 41, 3, 0.47);
+border-radius: 20px;
+
+
+/* Email */
+
+position: absolute;
+width: 55px;
+height: 30px;
+left: 294px;
+top: 558px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 30px;
+/* identical to box height */
+
+color: #000000;
+
+
+
+/* Nama Lengkap */
+
+position: absolute;
+width: 122px;
+height: 24px;
+left: 294px;
+top: 344px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height */
+
+color: #000000;
+
+
+
+/* Aktif */
+
+position: absolute;
+width: 43px;
+height: 30px;
+left: 1323px;
+top: 763px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 30px;
+/* identical to box height */
+
+color: #00FF15;
+
+
+
+/* dashboar setting magang Dosen */
+
+position: relative;
+width: 1440px;
+height: 1024px;
+
+background: #E8EAF3;
+
+
+/* Frame 9 */
+
+position: absolute;
+width: 234px;
+height: 1081px;
+left: 0px;
+top: -25px;
+
+background: #0B2454;
+border-radius: 10px;
+
+
+/* MENU */
+
+position: absolute;
+width: 105px;
+height: 54px;
+left: 71px;
+top: 55px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 36px;
+line-height: 54px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* iconoir:menu */
+
+position: absolute;
+left: 9.83%;
+right: 76.5%;
+top: 6.11%;
+bottom: 90.93%;
+
+background: #0B2454;
+
+
+/* Vector */
+
+position: absolute;
+left: 12.5%;
+right: 12.5%;
+top: 20.83%;
+bottom: 20.83%;
+
+border: 1.5px solid #FFFFFF;
+
+
+/* Dashboard */
+
+position: absolute;
+width: 90px;
+height: 24px;
+left: calc(50% - 90px/2 - 1px);
+top: 128px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* Informasi Magang */
+
+position: absolute;
+width: 147px;
+height: 24px;
+left: calc(50% - 147px/2 - 2.5px);
+top: 171px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* Pendaftaran Magang */
+
+position: absolute;
+width: 172px;
+height: 24px;
+left: calc(50% - 172px/2 - 2px);
+top: 216px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* Pengajuan Lokasi */
+
+position: absolute;
+width: 140px;
+height: 24px;
+left: calc(50% - 140px/2);
+top: 258px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* Surat Magang */
+
+position: absolute;
+width: 114px;
+height: 24px;
+left: calc(50% - 114px/2 - 2px);
+top: 304px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* Laporan */
+
+position: absolute;
+width: 66px;
+height: 24px;
+left: calc(50% - 66px/2 - 1px);
+top: 396px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* Penilaian */
+
+position: absolute;
+width: 74px;
+height: 24px;
+left: calc(50% - 74px/2 - 2px);
+top: 443px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* Pengaturan */
+
+position: absolute;
+width: 99px;
+height: 24px;
+left: calc(50% - 99px/2 + 0.5px);
+top: 488px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* Logout */
+
+position: absolute;
+width: 57px;
+height: 24px;
+left: calc(50% - 57px/2 - 5.5px);
+top: 1007px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* Bimbingan */
+
+position: absolute;
+width: 88px;
+height: 24px;
+left: calc(50% - 88px/2 - 8px);
+top: 352px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* Vector 1 */
+
+position: absolute;
+width: 1204px;
+height: 0px;
+left: 234px;
+top: 121px;
+
+border: 1px solid #000000;
+
+
+/* Pengaturan Akun */
+
+position: absolute;
+width: 290px;
+height: 48px;
+left: 262px;
+top: 31px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 32px;
+line-height: 48px;
+/* identical to box height */
+
+color: #000000;
+
+
+
+/* Informasi Akun */
+
+position: absolute;
+width: 158px;
+height: 30px;
+left: 289px;
+top: 315px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 30px;
+/* identical to box height */
+
+color: #000000;
+
+
+
+/* Vector 5 */
+
+position: absolute;
+width: 1156px;
+height: 0px;
+left: 252px;
+top: 304px;
+
+border: 1px solid #000000;
+
+
+/* Vector 6 */
+
+position: absolute;
+width: 1156px;
+height: 0px;
+left: 252px;
+top: 304px;
+
+border: 1px solid #000000;
+
+
+/* Vector 7 */
+
+position: absolute;
+width: 1156px;
+height: 0px;
+left: 252px;
+top: 304px;
+
+border: 1px solid #000000;
+
+
+/* Frame 36 */
+
+position: absolute;
+width: 1094px;
+height: 40px;
+left: calc(50% - 1094px/2 + 109px);
+top: 758px;
+
+background: rgba(115, 115, 115, 0.65);
+border-radius: 10px;
+
+
+/* Vector 8 */
+
+position: absolute;
+width: 1156px;
+height: 0px;
+left: 255px;
+top: 678px;
+
+border: 1px solid #000000;
+
+
+/* Foto Pengguna */
+
+position: absolute;
+width: 155px;
+height: 30px;
+left: 289px;
+top: 127px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 30px;
+/* identical to box height */
+
+color: #000000;
+
+
+
+/* Notifikasi Sistem Notifikasi Bimbingan */
+
+position: absolute;
+width: 204px;
+height: 90px;
+left: 289px;
+top: 701px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 30px;
+
+color: #000000;
+
+
+
+/* Notifikasi Sistem Notifikasi Bimbingan */
+
+position: absolute;
+width: 204px;
+height: 90px;
+left: 289px;
+top: 701px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 30px;
+
+color: #000000;
+
+
+
+/* Vector */
+
+position: absolute;
+width: 60.67px;
+left: calc(50% - 60.67px/2 + 92.33px);
+top: 15.53%;
+bottom: 79.13%;
+
+background: #000000;
+
+
+/* Dr. Ahmad, M.Kom Dosen Pembimbing */
+
+position: absolute;
+width: 197px;
+height: 60px;
+left: 719px;
+top: 235px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 30px;
+
+color: #000000;
+
+
+
+/* Frame 19 */
+
+position: absolute;
+width: 1087px;
+height: 40px;
+left: calc(50% - 1087px/2 + 112.5px);
+top: 368px;
+
+background: rgba(115, 115, 115, 0.65);
+border-radius: 10px;
+
+
+/* Dr. Ahmad, M.Kom */
+
+position: absolute;
+width: 182px;
+height: 30px;
+left: 26px;
+top: 4px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 30px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* Frame 20 */
+
+position: absolute;
+width: 1087px;
+height: 40px;
+left: calc(50% - 1087px/2 + 112.5px);
+top: 440px;
+
+background: rgba(115, 115, 115, 0.65);
+border-radius: 10px;
+
+
+/* 22343545 */
+
+position: absolute;
+width: 97px;
+height: 30px;
+left: 33px;
+top: 4px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 30px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* Frame 21 */
+
+position: absolute;
+width: 1087px;
+height: 40px;
+left: calc(50% - 1087px/2 + 112.5px);
+top: 517px;
+
+background: rgba(115, 115, 115, 0.65);
+border-radius: 10px;
+
+
+/* Dosen pembimbng */
+
+position: absolute;
+width: 194px;
+height: 30px;
+left: 33px;
+top: 4px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 30px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* Frame 22 */
+
+position: absolute;
+width: 1087px;
+height: 40px;
+left: calc(50% - 1087px/2 + 112.5px);
+top: 591px;
+
+background: rgba(115, 115, 115, 0.65);
+border-radius: 10px;
+
+
+/* aaa@gmail.com */
+
+position: absolute;
+width: 169px;
+height: 30px;
+left: 33px;
+top: 4px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 30px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* NIDN */
+
+position: absolute;
+width: 48px;
+height: 30px;
+left: 294px;
+top: 408px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 30px;
+/* identical to box height */
+
+color: #000000;
+
+
+
+/* Jabatan */
+
+position: absolute;
+width: 85px;
+height: 30px;
+left: 294px;
+top: 483px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 30px;
+/* identical to box height */
+
+color: #000000;
+
+
+
+/* Frame 35 */
+
+position: absolute;
+width: 46px;
+height: 29px;
+left: 1323px;
+top: 764px;
+
+background: rgba(0, 41, 3, 0.47);
+border-radius: 20px;
+
+
+/* Email */
+
+position: absolute;
+width: 55px;
+height: 30px;
+left: 294px;
+top: 558px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 30px;
+/* identical to box height */
+
+color: #000000;
+
+
+
+/* Nama Lengkap */
+
+position: absolute;
+width: 122px;
+height: 24px;
+left: 294px;
+top: 344px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height */
+
+color: #000000;
+
+
+
+/* Aktif */
+
+position: absolute;
+width: 43px;
+height: 30px;
+left: 1323px;
+top: 763px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 30px;
+/* identical to box height */
+
+color: #00FF15;
+
+
+
+/* dashboar setting magang Akama */
+
+position: relative;
+width: 1440px;
+height: 1024px;
+
+background: #E8EAF3;
+
+
+/* Frame 9 */
+
+position: absolute;
+width: 234px;
+height: 1081px;
+left: 0px;
+top: -25px;
+
+background: #0B2454;
+border-radius: 10px;
+
+
+/* MENU */
+
+position: absolute;
+width: 105px;
+height: 54px;
+left: 71px;
+top: 55px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 36px;
+line-height: 54px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* iconoir:menu */
+
+position: absolute;
+left: 9.83%;
+right: 76.5%;
+top: 6.11%;
+bottom: 90.93%;
+
+background: #0B2454;
+
+
+/* Vector */
+
+position: absolute;
+left: 12.5%;
+right: 12.5%;
+top: 20.83%;
+bottom: 20.83%;
+
+border: 1.5px solid #FFFFFF;
+
+
+/* Dashboard */
+
+position: absolute;
+width: 90px;
+height: 24px;
+left: calc(50% - 90px/2 - 1px);
+top: 128px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* Informasi Magang */
+
+position: absolute;
+width: 147px;
+height: 24px;
+left: calc(50% - 147px/2 - 2.5px);
+top: 171px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* Pendaftaran Magang */
+
+position: absolute;
+width: 172px;
+height: 24px;
+left: calc(50% - 172px/2 - 2px);
+top: 216px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* Pengajuan Lokasi */
+
+position: absolute;
+width: 140px;
+height: 24px;
+left: calc(50% - 140px/2);
+top: 258px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* Surat Magang */
+
+position: absolute;
+width: 114px;
+height: 24px;
+left: calc(50% - 114px/2 - 2px);
+top: 304px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* Laporan */
+
+position: absolute;
+width: 66px;
+height: 24px;
+left: calc(50% - 66px/2 - 1px);
+top: 396px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* Penilaian */
+
+position: absolute;
+width: 74px;
+height: 24px;
+left: calc(50% - 74px/2 - 2px);
+top: 443px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* Pengaturan */
+
+position: absolute;
+width: 99px;
+height: 24px;
+left: calc(50% - 99px/2 + 0.5px);
+top: 488px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* Logout */
+
+position: absolute;
+width: 57px;
+height: 24px;
+left: calc(50% - 57px/2 - 5.5px);
+top: 1007px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* Bimbingan */
+
+position: absolute;
+width: 88px;
+height: 24px;
+left: calc(50% - 88px/2 - 8px);
+top: 352px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* Vector 1 */
+
+position: absolute;
+width: 1204px;
+height: 0px;
+left: 234px;
+top: 121px;
+
+border: 1px solid #000000;
+
+
+/* Pengaturan Akun */
+
+position: absolute;
+width: 290px;
+height: 48px;
+left: 262px;
+top: 31px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 32px;
+line-height: 48px;
+/* identical to box height */
+
+color: #000000;
+
+
+
+/* Informasi Akun */
+
+position: absolute;
+width: 158px;
+height: 30px;
+left: 289px;
+top: 315px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 30px;
+/* identical to box height */
+
+color: #000000;
+
+
+
+/* Vector 5 */
+
+position: absolute;
+width: 1156px;
+height: 0px;
+left: 252px;
+top: 304px;
+
+border: 1px solid #000000;
+
+
+/* Vector 6 */
+
+position: absolute;
+width: 1156px;
+height: 0px;
+left: 252px;
+top: 304px;
+
+border: 1px solid #000000;
+
+
+/* Vector 7 */
+
+position: absolute;
+width: 1156px;
+height: 0px;
+left: 252px;
+top: 304px;
+
+border: 1px solid #000000;
+
+
+/* Vector 8 */
+
+position: absolute;
+width: 1156px;
+height: 0px;
+left: 255px;
+top: 624px;
+
+border: 1px solid #000000;
+
+
+/* Foto Pengguna */
+
+position: absolute;
+width: 155px;
+height: 30px;
+left: 289px;
+top: 127px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 30px;
+/* identical to box height */
+
+color: #000000;
+
+
+
+/* Vector */
+
+position: absolute;
+width: 60.67px;
+left: calc(50% - 60.67px/2 + 92.33px);
+top: 15.53%;
+bottom: 79.13%;
+
+background: #000000;
+
+
+/* Admin Akademik Administrator AKAM */
+
+position: absolute;
+width: 198px;
+height: 60px;
+left: 710px;
+top: 235px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 30px;
+
+color: #000000;
+
+
+
+/* Frame 19 */
+
+position: absolute;
+width: 1087px;
+height: 40px;
+left: calc(50% - 1087px/2 + 112.5px);
+top: 368px;
+
+background: rgba(115, 115, 115, 0.65);
+border-radius: 10px;
+
+
+/* Admin Akademik */
+
+position: absolute;
+width: 170px;
+height: 30px;
+left: 26px;
+top: 4px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 30px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* Frame 20 */
+
+position: absolute;
+width: 1087px;
+height: 40px;
+left: calc(50% - 1087px/2 + 112.5px);
+top: 440px;
+
+background: rgba(115, 115, 115, 0.65);
+border-radius: 10px;
+
+
+/* admin_akam */
+
+position: absolute;
+width: 138px;
+height: 30px;
+left: 33px;
+top: 4px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 30px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* Frame 22 */
+
+position: absolute;
+width: 1087px;
+height: 40px;
+left: calc(50% - 1087px/2 + 112.5px);
+top: 517px;
+
+background: rgba(115, 115, 115, 0.65);
+border-radius: 10px;
+
+
+/* aaa@gmail.com */
+
+position: absolute;
+width: 169px;
+height: 30px;
+left: 33px;
+top: 4px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 30px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* Username */
+
+position: absolute;
+width: 104px;
+height: 30px;
+left: 294px;
+top: 408px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 30px;
+/* identical to box height */
+
+color: #000000;
+
+
+
+/* Email */
+
+position: absolute;
+width: 55px;
+height: 30px;
+left: 294px;
+top: 482px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 30px;
+/* identical to box height */
+
+color: #000000;
+
+
+
+/* Nama Admin */
+
+position: absolute;
+width: 106px;
+height: 24px;
+left: 294px;
+top: 344px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height */
+
+color: #000000;
+
+
+
+/* dashboar Penilaian magang Dosen */
+
+position: relative;
+width: 1440px;
+height: 1024px;
+
+background: #E8EAF3;
+
+
+/* Frame 9 */
+
+position: absolute;
+width: 234px;
+height: 1081px;
+left: 0px;
+top: -25px;
+
+background: #0B2454;
+border-radius: 10px;
+
+
+/* MENU */
+
+position: absolute;
+width: 105px;
+height: 54px;
+left: 71px;
+top: 55px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 36px;
+line-height: 54px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* iconoir:menu */
+
+position: absolute;
+left: 9.83%;
+right: 76.5%;
+top: 6.11%;
+bottom: 90.93%;
+
+background: #0B2454;
+
+
+/* Vector */
+
+position: absolute;
+left: 12.5%;
+right: 12.5%;
+top: 20.83%;
+bottom: 20.83%;
+
+border: 1.5px solid #FFFFFF;
+
+
+/* Dashboard */
+
+position: absolute;
+width: 90px;
+height: 24px;
+left: calc(50% - 90px/2 - 1px);
+top: 128px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* Informasi Magang */
+
+position: absolute;
+width: 147px;
+height: 24px;
+left: calc(50% - 147px/2 - 2.5px);
+top: 171px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* Pendaftaran Magang */
+
+position: absolute;
+width: 172px;
+height: 24px;
+left: calc(50% - 172px/2 - 2px);
+top: 216px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* Pengajuan Lokasi */
+
+position: absolute;
+width: 140px;
+height: 24px;
+left: calc(50% - 140px/2);
+top: 258px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* Surat Magang */
+
+position: absolute;
+width: 114px;
+height: 24px;
+left: calc(50% - 114px/2 - 2px);
+top: 304px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* Laporan */
+
+position: absolute;
+width: 66px;
+height: 24px;
+left: calc(50% - 66px/2 - 1px);
+top: 396px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* Penilaian */
+
+position: absolute;
+width: 78px;
+height: 24px;
+left: calc(50% - 78px/2);
+top: 443px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* Pengaturan */
+
+position: absolute;
+width: 95px;
+height: 24px;
+left: calc(50% - 95px/2 - 1.5px);
+top: 488px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* Logout */
+
+position: absolute;
+width: 57px;
+height: 24px;
+left: calc(50% - 57px/2 - 5.5px);
+top: 1007px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* Bimbingan */
+
+position: absolute;
+width: 88px;
+height: 24px;
+left: calc(50% - 88px/2 - 8px);
+top: 352px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* Vector 1 */
+
+position: absolute;
+width: 1204px;
+height: 0px;
+left: 234px;
+top: 121px;
+
+border: 1px solid #000000;
+
+
+/* Hasil Penilaian Magang Evaluasi hasil kegiatan magang mahasiswa bimbingan */
+
+position: absolute;
+width: 557px;
+height: 74px;
+left: 262px;
+top: 21px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 32px;
+line-height: 48px;
+
+color: #000000;
+
+
+
+/* Daftar Mahasiswa */
+
+position: absolute;
+width: 188px;
+height: 30px;
+left: 289px;
+top: 257px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 30px;
+/* identical to box height */
+
+color: #000000;
+
+
+
+/* Statistik Penilaian */
+
+position: absolute;
+width: 191px;
+height: 30px;
+left: 289px;
+top: 125px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 30px;
+/* identical to box height */
+
+color: #000000;
+
+
+
+/* Group 2 */
+
+position: absolute;
+width: 530px;
+height: 92px;
+left: 289px;
+top: 157px;
+
+
+
+/* Frame 16 */
+
+position: absolute;
+width: 530px;
+height: 92px;
+left: 289px;
+top: 157px;
+
+background: rgba(115, 115, 115, 0.65);
+border-radius: 10px;
+
+
+/* 15 Mahasiswa */
+
+position: absolute;
+width: 199px;
+height: 60px;
+left: calc(50% - 199px/2 - 141.5px);
+top: 16px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 30px;
+
+color: #FFFFFF;
+
+
+
+/* Group 3 */
+
+position: absolute;
+width: 530px;
+height: 94px;
+left: 843px;
+top: 155px;
+
+
+
+/* Frame 16 */
+
+position: absolute;
+width: 530px;
+height: 94px;
+left: 843px;
+top: 155px;
+
+background: #FF8D28;
+border-radius: 10px;
+
+
+/* 6 Belum Dinilai */
+
+position: absolute;
+width: 199px;
+height: 60px;
+left: calc(50% - 199px/2 - 152.5px);
+top: 16px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 30px;
+
+color: #FFFFFF;
+
+
+
+/* Frame 20 */
+
+position: absolute;
+width: 1087px;
+height: 168px;
+left: 289px;
+top: 299px;
+
+background: rgba(115, 115, 115, 0.65);
+border-radius: 10px;
+
+
+/* Frame 34 */
+
+position: absolute;
+width: 137px;
+height: 25px;
+left: 18px;
+top: 78px;
+
+background: rgba(94, 46, 3, 0.32);
+border-radius: 20px;
+
+
+/* Andi Saputra 241701029847-Sistem informasi Belum dinilai */
+
+position: absolute;
+width: 311px;
+height: 90px;
+left: 20px;
+top: 14px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 30px;
+
+color: #FFFFFF;
+
+
+
+/* Frame 33 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 1032px;
+height: 37px;
+left: calc(50% - 1032px/2 + 0.5px);
+top: 116px;
+
+background: rgba(0, 0, 0, 0.35);
+border: 1px solid #FFFFFF;
+border-radius: 20px;
+
+
+/* Periksa Laporan */
+
+position: absolute;
+width: 159px;
+height: 30px;
+left: calc(50% - 159px/2 + 0.5px);
+top: 4px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 30px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* Frame 21 */
+
+position: absolute;
+width: 1087px;
+height: 168px;
+left: 289px;
+top: 481px;
+
+background: rgba(115, 115, 115, 0.65);
+border-radius: 10px;
+
+
+/* Frame 34 */
+
+position: absolute;
+width: 62px;
+height: 25px;
+left: 18px;
+top: 78px;
+
+background: rgba(0, 233, 12, 0.25);
+border-radius: 20px;
+
+
+/* Aldoria 24170102923-Sistem informasi Dinilai */
+
+position: absolute;
+width: 299px;
+height: 90px;
+left: 20px;
+top: 14px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 30px;
+
+color: #FFFFFF;
+
+
+
+/* Frame 33 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 1032px;
+height: 37px;
+left: calc(50% - 1032px/2 + 0.5px);
+top: 116px;
+
+background: rgba(0, 0, 0, 0.35);
+border: 1px solid #FFFFFF;
+border-radius: 20px;
+
+
+/* Periksa Laporan */
+
+position: absolute;
+width: 159px;
+height: 30px;
+left: calc(50% - 159px/2 + 0.5px);
+top: 4px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 30px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* dashboar Penilaian magang Dosen */
+
+position: relative;
+width: 1440px;
+height: 1024px;
+
+background: #E8EAF3;
+
+
+/* Frame 9 */
+
+position: absolute;
+width: 234px;
+height: 1081px;
+left: 0px;
+top: -25px;
+
+background: #0B2454;
+border-radius: 10px;
+
+
+/* MENU */
+
+position: absolute;
+width: 105px;
+height: 54px;
+left: 71px;
+top: 55px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 36px;
+line-height: 54px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* iconoir:menu */
+
+position: absolute;
+left: 9.83%;
+right: 76.5%;
+top: 6.11%;
+bottom: 90.93%;
+
+background: #0B2454;
+
+
+/* Vector */
+
+position: absolute;
+left: 12.5%;
+right: 12.5%;
+top: 20.83%;
+bottom: 20.83%;
+
+border: 1.5px solid #FFFFFF;
+
+
+/* Dashboard */
+
+position: absolute;
+width: 90px;
+height: 24px;
+left: calc(50% - 90px/2 - 1px);
+top: 128px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* Informasi Magang */
+
+position: absolute;
+width: 147px;
+height: 24px;
+left: calc(50% - 147px/2 - 2.5px);
+top: 171px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* Pendaftaran Magang */
+
+position: absolute;
+width: 172px;
+height: 24px;
+left: calc(50% - 172px/2 - 2px);
+top: 216px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* Pengajuan Lokasi */
+
+position: absolute;
+width: 140px;
+height: 24px;
+left: calc(50% - 140px/2);
+top: 258px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* Surat Magang */
+
+position: absolute;
+width: 114px;
+height: 24px;
+left: calc(50% - 114px/2 - 2px);
+top: 304px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* Laporan */
+
+position: absolute;
+width: 66px;
+height: 24px;
+left: calc(50% - 66px/2 - 1px);
+top: 396px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* Penilaian */
+
+position: absolute;
+width: 78px;
+height: 24px;
+left: calc(50% - 78px/2);
+top: 443px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* Pengaturan */
+
+position: absolute;
+width: 95px;
+height: 24px;
+left: calc(50% - 95px/2 - 1.5px);
+top: 488px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* Logout */
+
+position: absolute;
+width: 57px;
+height: 24px;
+left: calc(50% - 57px/2 - 5.5px);
+top: 1007px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* Bimbingan */
+
+position: absolute;
+width: 88px;
+height: 24px;
+left: calc(50% - 88px/2 - 8px);
+top: 352px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* Vector 1 */
+
+position: absolute;
+width: 1204px;
+height: 0px;
+left: 234px;
+top: 121px;
+
+border: 1px solid #000000;
+
+
+/* Hasil Penilaian Magang Evaluasi hasil kegiatan magang mahasiswa bimbingan */
+
+position: absolute;
+width: 557px;
+height: 74px;
+left: 262px;
+top: 21px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 32px;
+line-height: 48px;
+
+color: #000000;
+
+
+
+/* Daftar Mahasiswa */
+
+position: absolute;
+width: 188px;
+height: 30px;
+left: 289px;
+top: 406px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 30px;
+/* identical to box height */
+
+color: #000000;
+
+
+
+/* Statistik Penilaian */
+
+position: absolute;
+width: 191px;
+height: 30px;
+left: 289px;
+top: 125px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 30px;
+/* identical to box height */
+
+color: #000000;
+
+
+
+/* Group 2 */
+
+position: absolute;
+width: 530px;
+height: 92px;
+left: 289px;
+top: 157px;
+
+
+
+/* Frame 16 */
+
+position: absolute;
+width: 530px;
+height: 92px;
+left: 289px;
+top: 157px;
+
+background: rgba(115, 115, 115, 0.65);
+border-radius: 10px;
+
+
+/* 150 Total Mahasiswa */
+
+position: absolute;
+width: 199px;
+height: 60px;
+left: calc(50% - 199px/2 - 141.5px);
+top: 16px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 30px;
+
+color: #FFFFFF;
+
+
+
+/* Group 4 */
+
+position: absolute;
+width: 530px;
+height: 92px;
+left: 289px;
+top: 273px;
+
+
+
+/* Frame 16 */
+
+position: absolute;
+width: 530px;
+height: 92px;
+left: 289px;
+top: 273px;
+
+background: #00FF15;
+border-radius: 10px;
+
+
+/* 100 Sudah Dinilai */
+
+position: absolute;
+width: 199px;
+height: 60px;
+left: calc(50% - 199px/2 - 141.5px);
+top: 16px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 30px;
+
+color: #FFFFFF;
+
+
+
+/* Group 3 */
+
+position: absolute;
+width: 530px;
+height: 94px;
+left: 843px;
+top: 155px;
+
+
+
+/* Frame 16 */
+
+position: absolute;
+width: 530px;
+height: 94px;
+left: 843px;
+top: 155px;
+
+background: #FF8D28;
+border-radius: 10px;
+
+
+/* 16 Belum Dinilai */
+
+position: absolute;
+width: 199px;
+height: 60px;
+left: calc(50% - 199px/2 - 152.5px);
+top: 16px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 30px;
+
+color: #FFFFFF;
+
+
+
+/* Group 5 */
+
+position: absolute;
+width: 530px;
+height: 94px;
+left: 843px;
+top: 272px;
+
+
+
+/* Frame 16 */
+
+position: absolute;
+width: 530px;
+height: 94px;
+left: 843px;
+top: 272px;
+
+background: #00C3D0;
+border-radius: 10px;
+
+
+/* 78.7 Rata-Rata Nilai */
+
+position: absolute;
+width: 199px;
+height: 60px;
+left: calc(50% - 199px/2 - 152.5px);
+top: 16px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 30px;
+
+color: #FFFFFF;
+
+
+
+/* Frame 20 */
+
+position: absolute;
+width: 1087px;
+height: 168px;
+left: 275px;
+top: 463px;
+
+background: rgba(115, 115, 115, 0.65);
+border-radius: 10px;
+
+
+/* Frame 34 */
+
+position: absolute;
+width: 137px;
+height: 25px;
+left: 18px;
+top: 78px;
+
+background: rgba(94, 46, 3, 0.32);
+border-radius: 20px;
+
+
+/* Andi Saputra 241701029847-Sistem informasi Belum dinilai */
+
+position: absolute;
+width: 311px;
+height: 90px;
+left: 20px;
+top: 14px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 30px;
+
+color: #FFFFFF;
+
+
+
+/* Frame 33 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 1032px;
+height: 37px;
+left: calc(50% - 1032px/2 + 0.5px);
+top: 116px;
+
+background: rgba(0, 0, 0, 0.35);
+border: 1px solid #FFFFFF;
+border-radius: 20px;
+
+
+/* Periksa Laporan */
+
+position: absolute;
+width: 159px;
+height: 30px;
+left: calc(50% - 159px/2 + 0.5px);
+top: 4px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 30px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* Frame 21 */
+
+position: absolute;
+width: 1087px;
+height: 168px;
+left: 275px;
+top: 671px;
+
+background: rgba(115, 115, 115, 0.65);
+border-radius: 10px;
+
+
+/* Frame 34 */
+
+position: absolute;
+width: 62px;
+height: 25px;
+left: 18px;
+top: 78px;
+
+background: rgba(0, 233, 12, 0.25);
+border-radius: 20px;
+
+
+/* Aldoria 24170102923-Sistem informasi Dinilai */
+
+position: absolute;
+width: 299px;
+height: 90px;
+left: 20px;
+top: 14px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 30px;
+
+color: #FFFFFF;
+
+
+
+/* Frame 33 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 1032px;
+height: 37px;
+left: calc(50% - 1032px/2 + 0.5px);
+top: 116px;
+
+background: rgba(0, 0, 0, 0.35);
+border: 1px solid #FFFFFF;
+border-radius: 20px;
+
+
+/* Periksa Laporan */
+
+position: absolute;
+width: 159px;
+height: 30px;
+left: calc(50% - 159px/2 + 0.5px);
+top: 4px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 30px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* dashboar Laporan magang Dosen */
+
+position: relative;
+width: 1440px;
+height: 1024px;
+
+background: #E8EAF3;
+
+
+/* Frame 9 */
+
+position: relative;
+width: 234px;
+height: 1081px;
+left: 0px;
+top: -25px;
+
+background: #0B2454;
+border-radius: 10px;
+
+
+/* MENU */
+
+position: absolute;
+width: 105px;
+height: 54px;
+left: 71px;
+top: 55px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 36px;
+line-height: 54px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* iconoir:menu */
+
+position: absolute;
+left: 9.83%;
+right: 76.5%;
+top: 6.11%;
+bottom: 90.93%;
+
+background: #0B2454;
+
+
+/* Vector */
+
+position: absolute;
+left: 12.5%;
+right: 12.5%;
+top: 20.83%;
+bottom: 20.83%;
+
+border: 1.5px solid #FFFFFF;
+
+
+/* Dashboard */
+
+position: absolute;
+width: 90px;
+height: 24px;
+left: calc(50% - 90px/2 - 1px);
+top: 128px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* Informasi Magang */
+
+position: absolute;
+width: 147px;
+height: 24px;
+left: calc(50% - 147px/2 - 2.5px);
+top: 171px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* Pendaftaran Magang */
+
+position: absolute;
+width: 172px;
+height: 24px;
+left: calc(50% - 172px/2 - 2px);
+top: 216px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* Pengajuan Lokasi */
+
+position: absolute;
+width: 140px;
+height: 24px;
+left: calc(50% - 140px/2);
+top: 258px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* Surat Magang */
+
+position: absolute;
+width: 114px;
+height: 24px;
+left: calc(50% - 114px/2 - 2px);
+top: 304px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* Bimbingan */
+
+position: absolute;
+width: 88px;
+height: 24px;
+left: calc(50% - 88px/2 - 2px);
+top: 350px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* Laporan */
+
+position: absolute;
+width: 69px;
+height: 24px;
+left: calc(50% - 69px/2 + 0.5px);
+top: 396px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* Penilaian */
+
+position: absolute;
+width: 74px;
+height: 24px;
+left: calc(50% - 74px/2 - 2px);
+top: 443px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* Pengaturan */
+
+position: absolute;
+width: 95px;
+height: 24px;
+left: calc(50% - 95px/2 - 1.5px);
+top: 488px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* Logout */
+
+position: absolute;
+width: 57px;
+height: 24px;
+left: calc(50% - 57px/2 - 5.5px);
+top: 1007px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* Vector 1 */
+
+position: absolute;
+width: 1204px;
+height: 0px;
+left: 234px;
+top: 121px;
+
+border: 1px solid #000000;
+
+
+/* Laporan Magang Pengumpulan dan pemantauan laporan kegiatan magang */
+
+position: absolute;
+width: 595px;
+height: 74px;
+left: 265px;
+top: 20px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 32px;
+line-height: 48px;
+
+color: #000000;
+
+
+
+/* Laporan Saya */
+
+position: absolute;
+width: 142px;
+height: 30px;
+left: 289px;
+top: 127px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 30px;
+/* identical to box height */
+
+color: #000000;
+
+
+
+/* Daftar Laporan */
+
+position: absolute;
+width: 155px;
+height: 30px;
+left: 289px;
+top: 349px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 30px;
+/* identical to box height */
+
+color: #000000;
+
+
+
+/* Frame 17 */
+
+position: relative;
+width: 1087px;
+height: 168px;
+left: 289px;
+top: 389px;
+
+background: rgba(115, 115, 115, 0.65);
+border-radius: 10px;
+
+
+/* Frame 34 */
+
+position: absolute;
+width: 246px;
+height: 25px;
+left: 18px;
+top: 78px;
+
+background: rgba(94, 46, 3, 0.32);
+border-radius: 20px;
+
+
+/* Andi Saputra Laporan Akhir Magang Menunggu pemeriksaan */
+
+position: absolute;
+width: 246px;
+height: 90px;
+left: 20px;
+top: 14px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 30px;
+
+color: #FFFFFF;
+
+
+
+/* Frame 33 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 1032px;
+height: 37px;
+left: calc(50% - 1032px/2 + 0.5px);
+top: 116px;
+
+background: rgba(0, 0, 0, 0.35);
+border: 1px solid #FFFFFF;
+border-radius: 20px;
+
+
+/* Periksa Laporan */
+
+position: absolute;
+width: 159px;
+height: 30px;
+left: calc(50% - 159px/2 + 0.5px);
+top: 4px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 30px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* Frame 18 */
+
+position: relative;
+width: 1087px;
+height: 168px;
+left: 289px;
+top: 569px;
+
+background: rgba(115, 115, 115, 0.65);
+border-radius: 10px;
+
+
+/* Frame 34 */
+
+position: absolute;
+width: 126px;
+height: 25px;
+left: 18px;
+top: 78px;
+
+background: rgba(103, 0, 0, 0.26);
+border-radius: 20px;
+
+
+/* Muhammad Ilmi Laporan Akhir Magang Perlu direvisi */
+
+position: absolute;
+width: 226px;
+height: 90px;
+left: 20px;
+top: 13px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 30px;
+
+color: #FFFFFF;
+
+
+
+/* Frame 33 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 1032px;
+height: 37px;
+left: calc(50% - 1032px/2 + 0.5px);
+top: 116px;
+
+background: rgba(0, 0, 0, 0.35);
+border: 1px solid #FFFFFF;
+border-radius: 20px;
+
+
+/* Periksa Laporan */
+
+position: absolute;
+width: 159px;
+height: 30px;
+left: calc(50% - 159px/2 + 0.5px);
+top: 4px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 30px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* Frame 19 */
+
+position: relative;
+width: 1087px;
+height: 168px;
+left: 289px;
+top: 749px;
+
+background: rgba(115, 115, 115, 0.65);
+border-radius: 10px;
+
+
+/* Frame 34 */
+
+position: absolute;
+width: 246px;
+height: 25px;
+left: 18px;
+top: 78px;
+
+background: rgba(94, 46, 3, 0.32);
+border-radius: 20px;
+
+
+/* Claudia Laporan Akhir Magang Menunggu pemeriksaan */
+
+position: absolute;
+width: 246px;
+height: 90px;
+left: 20px;
+top: 14px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 30px;
+
+color: #FFFFFF;
+
+
+
+/* Frame 33 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 1032px;
+height: 37px;
+left: calc(50% - 1032px/2 + 0.5px);
+top: 116px;
+
+background: rgba(0, 0, 0, 0.35);
+border: 1px solid #FFFFFF;
+border-radius: 20px;
+
+
+/* Periksa Laporan */
+
+position: absolute;
+width: 159px;
+height: 30px;
+left: calc(50% - 159px/2 + 0.5px);
+top: 4px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 30px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* Group 10 */
+
+position: absolute;
+width: 1073px;
+height: 173px;
+left: 289px;
+top: 164px;
+
+
+
+/* Group 5 */
+
+position: absolute;
+width: 523px;
+height: 78px;
+left: 289px;
+top: 259px;
+
+
+
+/* Frame 16 */
+
+position: absolute;
+width: 523px;
+height: 78px;
+left: 289px;
+top: 259px;
+
+background: #00FF15;
+border-radius: 10px;
+
+
+/* 10 Distujui */
+
+position: absolute;
+width: 175px;
+height: 60px;
+left: 30px;
+top: 8px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 30px;
+
+color: #FFFFFF;
+
+
+
+/* date-range */
+
+position: absolute;
+width: 41px;
+height: 34px;
+left: 22px;
+top: 11px;
+
+
+
+/* Group 7 */
+
+position: absolute;
+width: 523px;
+height: 80px;
+left: 289px;
+top: 165px;
+
+
+
+/* Frame 16 */
+
+position: absolute;
+width: 523px;
+height: 80px;
+left: 289px;
+top: 165px;
+
+background: rgba(115, 115, 115, 0.65);
+border-radius: 10px;
+
+
+/* 8 Total Laporan */
+
+position: absolute;
+width: 175px;
+height: 60px;
+left: 32px;
+top: 9px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 30px;
+
+color: #FFFFFF;
+
+
+
+/* Group 8 */
+
+position: absolute;
+width: 509px;
+height: 81px;
+left: 853px;
+top: 164px;
+
+
+
+/* Frame 16 */
+
+position: absolute;
+width: 509px;
+height: 81px;
+left: 853px;
+top: 164px;
+
+background: #FF8D28;
+border-radius: 10px;
+
+
+/* 4 Menunggu */
+
+position: absolute;
+width: 175px;
+height: 60px;
+left: 30px;
+top: 11px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 30px;
+
+color: #FFFFFF;
+
+
+
+/* date-range */
+
+position: absolute;
+width: 41px;
+height: 34px;
+left: 22px;
+top: 11px;
+
+
+
+/* Group 6 */
+
+position: absolute;
+width: 509px;
+height: 74px;
+left: 853px;
+top: 263px;
+
+
+
+/* Frame 16 */
+
+position: absolute;
+width: 509px;
+height: 74px;
+left: 853px;
+top: 263px;
+
+background: rgba(255, 42, 42, 0.65);
+border-radius: 10px;
+
+
+/* 3 Perlu direvisi */
+
+position: absolute;
+width: 175px;
+height: 60px;
+left: 29px;
+top: 6px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 30px;
+
+color: #FFFFFF;
+
+
+
+/* dashboar Laporan magang Akama */
+
+position: relative;
+width: 1440px;
+height: 1024px;
+
+background: #E8EAF3;
+
+
+/* Frame 9 */
+
+position: relative;
+width: 234px;
+height: 1081px;
+left: 0px;
+top: -25px;
+
+background: #0B2454;
+border-radius: 10px;
+
+
+/* MENU */
+
+position: absolute;
+width: 105px;
+height: 54px;
+left: 71px;
+top: 55px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 36px;
+line-height: 54px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* iconoir:menu */
+
+position: absolute;
+left: 9.83%;
+right: 76.5%;
+top: 6.11%;
+bottom: 90.93%;
+
+background: #0B2454;
+
+
+/* Vector */
+
+position: absolute;
+left: 12.5%;
+right: 12.5%;
+top: 20.83%;
+bottom: 20.83%;
+
+border: 1.5px solid #FFFFFF;
+
+
+/* Dashboard */
+
+position: absolute;
+width: 90px;
+height: 24px;
+left: calc(50% - 90px/2 - 1px);
+top: 128px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* Informasi Magang */
+
+position: absolute;
+width: 147px;
+height: 24px;
+left: calc(50% - 147px/2 - 2.5px);
+top: 171px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* Pendaftaran Magang */
+
+position: absolute;
+width: 172px;
+height: 24px;
+left: calc(50% - 172px/2 - 2px);
+top: 216px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* Pengajuan Lokasi */
+
+position: absolute;
+width: 140px;
+height: 24px;
+left: calc(50% - 140px/2);
+top: 258px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* Surat Magang */
+
+position: absolute;
+width: 114px;
+height: 24px;
+left: calc(50% - 114px/2 - 2px);
+top: 304px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* Bimbingan */
+
+position: absolute;
+width: 88px;
+height: 24px;
+left: calc(50% - 88px/2 - 2px);
+top: 350px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* Laporan */
+
+position: absolute;
+width: 69px;
+height: 24px;
+left: calc(50% - 69px/2 + 0.5px);
+top: 396px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* Penilaian */
+
+position: absolute;
+width: 74px;
+height: 24px;
+left: calc(50% - 74px/2 - 2px);
+top: 443px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* Pengaturan */
+
+position: absolute;
+width: 95px;
+height: 24px;
+left: calc(50% - 95px/2 - 1.5px);
+top: 488px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* Logout */
+
+position: absolute;
+width: 57px;
+height: 24px;
+left: calc(50% - 57px/2 - 5.5px);
+top: 1007px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* Vector 1 */
+
+position: absolute;
+width: 1204px;
+height: 0px;
+left: 234px;
+top: 121px;
+
+border: 1px solid #000000;
+
+
+/* Laporan Magang Pengumpulan dan pemantauan laporan kegiatan magang */
+
+position: absolute;
+width: 595px;
+height: 74px;
+left: 265px;
+top: 20px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 32px;
+line-height: 48px;
+
+color: #000000;
+
+
+
+/* Laporan Saya */
+
+position: absolute;
+width: 142px;
+height: 30px;
+left: 289px;
+top: 127px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 30px;
+/* identical to box height */
+
+color: #000000;
+
+
+
+/* Daftar Laporan */
+
+position: absolute;
+width: 155px;
+height: 30px;
+left: 289px;
+top: 349px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 30px;
+/* identical to box height */
+
+color: #000000;
+
+
+
+/* Frame 17 */
+
+position: relative;
+width: 1087px;
+height: 168px;
+left: 289px;
+top: 389px;
+
+background: rgba(115, 115, 115, 0.65);
+border-radius: 10px;
+
+
+/* Frame 34 */
+
+position: absolute;
+width: 246px;
+height: 25px;
+left: 18px;
+top: 78px;
+
+background: rgba(94, 46, 3, 0.32);
+border-radius: 20px;
+
+
+/* Andi Saputra Laporan Akhir Magang Menunggu pemeriksaan */
+
+position: absolute;
+width: 246px;
+height: 90px;
+left: 20px;
+top: 14px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 30px;
+
+color: #FFFFFF;
+
+
+
+/* Frame 33 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 1032px;
+height: 37px;
+left: calc(50% - 1032px/2 + 0.5px);
+top: 116px;
+
+background: rgba(0, 0, 0, 0.35);
+border: 1px solid #FFFFFF;
+border-radius: 20px;
+
+
+/* Periksa Laporan */
+
+position: absolute;
+width: 159px;
+height: 30px;
+left: calc(50% - 159px/2 + 0.5px);
+top: 4px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 30px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* Frame 18 */
+
+position: relative;
+width: 1087px;
+height: 168px;
+left: 289px;
+top: 569px;
+
+background: rgba(115, 115, 115, 0.65);
+border-radius: 10px;
+
+
+/* Frame 34 */
+
+position: absolute;
+width: 126px;
+height: 25px;
+left: 18px;
+top: 78px;
+
+background: rgba(103, 0, 0, 0.26);
+border-radius: 20px;
+
+
+/* Muhammad Ilmi Laporan Akhir Magang Perlu direvisi */
+
+position: absolute;
+width: 226px;
+height: 90px;
+left: 20px;
+top: 13px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 30px;
+
+color: #FFFFFF;
+
+
+
+/* Frame 33 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 1032px;
+height: 37px;
+left: calc(50% - 1032px/2 + 0.5px);
+top: 116px;
+
+background: rgba(0, 0, 0, 0.35);
+border: 1px solid #FFFFFF;
+border-radius: 20px;
+
+
+/* Periksa Laporan */
+
+position: absolute;
+width: 159px;
+height: 30px;
+left: calc(50% - 159px/2 + 0.5px);
+top: 4px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 30px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* Frame 19 */
+
+position: relative;
+width: 1087px;
+height: 168px;
+left: 289px;
+top: 749px;
+
+background: rgba(115, 115, 115, 0.65);
+border-radius: 10px;
+
+
+/* Frame 34 */
+
+position: absolute;
+width: 246px;
+height: 25px;
+left: 18px;
+top: 78px;
+
+background: rgba(94, 46, 3, 0.32);
+border-radius: 20px;
+
+
+/* Claudia Laporan Akhir Magang Menunggu pemeriksaan */
+
+position: absolute;
+width: 246px;
+height: 90px;
+left: 20px;
+top: 14px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 30px;
+
+color: #FFFFFF;
+
+
+
+/* Frame 33 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 1032px;
+height: 37px;
+left: calc(50% - 1032px/2 + 0.5px);
+top: 116px;
+
+background: rgba(0, 0, 0, 0.35);
+border: 1px solid #FFFFFF;
+border-radius: 20px;
+
+
+/* Periksa Laporan */
+
+position: absolute;
+width: 159px;
+height: 30px;
+left: calc(50% - 159px/2 + 0.5px);
+top: 4px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 30px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* Group 10 */
+
+position: absolute;
+width: 1073px;
+height: 173px;
+left: 289px;
+top: 164px;
+
+
+
+/* Group 5 */
+
+position: absolute;
+width: 523px;
+height: 78px;
+left: 289px;
+top: 259px;
+
+
+
+/* Frame 16 */
+
+position: absolute;
+width: 523px;
+height: 78px;
+left: 289px;
+top: 259px;
+
+background: #00FF15;
+border-radius: 10px;
+
+
+/* 10 Distujui */
+
+position: absolute;
+width: 175px;
+height: 60px;
+left: 30px;
+top: 8px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 30px;
+
+color: #FFFFFF;
+
+
+
+/* date-range */
+
+position: absolute;
+width: 41px;
+height: 34px;
+left: 22px;
+top: 11px;
+
+
+
+/* Group 7 */
+
+position: absolute;
+width: 523px;
+height: 80px;
+left: 289px;
+top: 165px;
+
+
+
+/* Frame 16 */
+
+position: absolute;
+width: 523px;
+height: 80px;
+left: 289px;
+top: 165px;
+
+background: rgba(115, 115, 115, 0.65);
+border-radius: 10px;
+
+
+/* 8 Total Laporan */
+
+position: absolute;
+width: 175px;
+height: 60px;
+left: 32px;
+top: 9px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 30px;
+
+color: #FFFFFF;
+
+
+
+/* Group 8 */
+
+position: absolute;
+width: 509px;
+height: 81px;
+left: 853px;
+top: 164px;
+
+
+
+/* Frame 16 */
+
+position: absolute;
+width: 509px;
+height: 81px;
+left: 853px;
+top: 164px;
+
+background: #FF8D28;
+border-radius: 10px;
+
+
+/* 4 Menunggu */
+
+position: absolute;
+width: 175px;
+height: 60px;
+left: 30px;
+top: 11px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 30px;
+
+color: #FFFFFF;
+
+
+
+/* date-range */
+
+position: absolute;
+width: 41px;
+height: 34px;
+left: 22px;
+top: 11px;
+
+
+
+/* Group 6 */
+
+position: absolute;
+width: 509px;
+height: 74px;
+left: 853px;
+top: 263px;
+
+
+
+/* Frame 16 */
+
+position: absolute;
+width: 509px;
+height: 74px;
+left: 853px;
+top: 263px;
+
+background: rgba(255, 42, 42, 0.65);
+border-radius: 10px;
+
+
+/* 3 Perlu direvisi */
+
+position: absolute;
+width: 175px;
+height: 60px;
+left: 29px;
+top: 6px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 30px;
+
+color: #FFFFFF;
+
+
+
+/* dashboar Bimbingan magang Dosen */
+
+position: relative;
+width: 1440px;
+height: 1024px;
+
+background: #E8EAF3;
+
+
+/* Frame 9 */
+
+position: relative;
+width: 234px;
+height: 1081px;
+left: 0px;
+top: -25px;
+
+background: #0B2454;
+border-radius: 10px;
+
+
+/* MENU */
+
+position: absolute;
+width: 105px;
+height: 54px;
+left: 71px;
+top: 55px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 36px;
+line-height: 54px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* iconoir:menu */
+
+position: absolute;
+left: 9.83%;
+right: 76.5%;
+top: 6.11%;
+bottom: 90.93%;
+
+background: #0B2454;
+
+
+/* Vector */
+
+position: absolute;
+left: 12.5%;
+right: 12.5%;
+top: 20.83%;
+bottom: 20.83%;
+
+border: 1.5px solid #FFFFFF;
+
+
+/* Dashboard */
+
+position: absolute;
+width: 90px;
+height: 24px;
+left: calc(50% - 90px/2 - 1px);
+top: 128px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* Informasi Magang */
+
+position: absolute;
+width: 147px;
+height: 24px;
+left: calc(50% - 147px/2 - 2.5px);
+top: 171px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* Pendaftaran Magang */
+
+position: absolute;
+width: 172px;
+height: 24px;
+left: calc(50% - 172px/2 - 2px);
+top: 216px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* Pengajuan Lokasi */
+
+position: absolute;
+width: 140px;
+height: 24px;
+left: calc(50% - 140px/2);
+top: 258px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* Surat Magang */
+
+position: absolute;
+width: 114px;
+height: 24px;
+left: calc(50% - 114px/2 - 2px);
+top: 304px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* Bimbingan */
+
+position: absolute;
+width: 92px;
+height: 24px;
+left: calc(50% - 92px/2);
+top: 350px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* Laporan */
+
+position: absolute;
+width: 66px;
+height: 24px;
+left: calc(50% - 66px/2 - 1px);
+top: 396px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* Penilaian */
+
+position: absolute;
+width: 74px;
+height: 24px;
+left: calc(50% - 74px/2 - 2px);
+top: 443px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* Pengaturan */
+
+position: absolute;
+width: 95px;
+height: 24px;
+left: calc(50% - 95px/2 - 1.5px);
+top: 488px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* Logout */
+
+position: absolute;
+width: 57px;
+height: 24px;
+left: calc(50% - 57px/2 - 5.5px);
+top: 1007px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* Vector 1 */
+
+position: absolute;
+width: 1204px;
+height: 0px;
+left: 234px;
+top: 121px;
+
+border: 1px solid #000000;
+
+
+/* Bimbingan Magang Kelola jadwal konsultasi dan pantau perkembangan bimbingan magang. */
+
+position: absolute;
+width: 737px;
+height: 74px;
+left: 265px;
+top: 22px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 32px;
+line-height: 48px;
+
+color: #000000;
+
+
+
+/* Permintaan Bimbingan */
+
+position: absolute;
+width: 241px;
+height: 30px;
+left: 294px;
+top: 327px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 30px;
+/* identical to box height */
+
+color: #000000;
+
+
+
+/* Monitoring Bimbingan */
+
+position: absolute;
+width: 231px;
+height: 30px;
+left: 294px;
+top: 122px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 30px;
+/* identical to box height */
+
+color: #000000;
+
+
+
+/* Riwayat Bimbingan */
+
+position: absolute;
+width: 203px;
+height: 30px;
+left: 297px;
+top: 565px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 30px;
+/* identical to box height */
+
+color: #000000;
+
+
+
+/* Frame 17 */
+
+position: relative;
+width: 1087px;
+height: 196px;
+left: 294px;
+top: 367px;
+
+background: rgba(115, 115, 115, 0.65);
+border-radius: 10px;
+
+
+/* Andi Saputra Konsultasi laporan magang Senin, 09.00 WIB Menunggu konfirmasi */
+
+position: absolute;
+width: 279px;
+height: 120px;
+left: 20px;
+top: 14px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 30px;
+
+color: #FFFFFF;
+
+
+
+/* Frame 31 */
+
+position: absolute;
+width: 482px;
+height: 37px;
+left: 50px;
+top: 145px;
+
+background: #00960D;
+border-radius: 20px;
+
+
+/* Terima */
+
+position: absolute;
+width: 74px;
+height: 30px;
+left: calc(50% - 74px/2);
+top: 5px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 30px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* Frame 32 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 482px;
+height: 37px;
+left: 553px;
+top: 145px;
+
+background: rgba(0, 0, 0, 0.51);
+border: 1px solid #A40000;
+border-radius: 20px;
+
+
+/* Tolak */
+
+position: absolute;
+width: 57px;
+height: 30px;
+left: calc(50% - 57px/2 + 0.5px);
+top: 1px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 30px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* Frame 18 */
+
+position: relative;
+width: 1087px;
+height: 118px;
+left: 294px;
+top: 609px;
+
+background: rgba(115, 115, 115, 0.65);
+border-radius: 10px;
+
+
+/* Frame 33 */
+
+position: absolute;
+width: 121px;
+height: 27px;
+left: 28px;
+top: 77px;
+
+background: rgba(0, 99, 8, 0.22);
+border-radius: 20px;
+
+
+/* Siti Rahma Evaluasi kegiatan magang Selesai */
+
+position: absolute;
+width: 268px;
+height: 90px;
+left: 20px;
+top: 14px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 30px;
+
+color: #FFFFFF;
+
+
+
+/* Group 9 */
+
+position: absolute;
+width: 1073px;
+height: 173px;
+left: 294px;
+top: 152px;
+
+
+
+/* Group 5 */
+
+position: absolute;
+width: 523px;
+height: 78px;
+left: 294px;
+top: 247px;
+
+
+
+/* Frame 16 */
+
+position: absolute;
+width: 523px;
+height: 78px;
+left: 294px;
+top: 247px;
+
+background: #00FF15;
+border-radius: 10px;
+
+
+/* 8 Selesai */
+
+position: absolute;
+width: 175px;
+height: 60px;
+left: 30px;
+top: 8px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 30px;
+
+color: #FFFFFF;
+
+
+
+/* date-range */
+
+position: absolute;
+width: 41px;
+height: 34px;
+left: 22px;
+top: 11px;
+
+
+
+/* Group 7 */
+
+position: absolute;
+width: 523px;
+height: 80px;
+left: 294px;
+top: 153px;
+
+
+
+/* Frame 16 */
+
+position: absolute;
+width: 523px;
+height: 80px;
+left: 294px;
+top: 153px;
+
+background: rgba(115, 115, 115, 0.65);
+border-radius: 10px;
+
+
+/* 5 Mahasiswa */
+
+position: absolute;
+width: 175px;
+height: 60px;
+left: 32px;
+top: 9px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 30px;
+
+color: #FFFFFF;
+
+
+
+/* Group 8 */
+
+position: absolute;
+width: 509px;
+height: 81px;
+left: 858px;
+top: 152px;
+
+
+
+/* Frame 16 */
+
+position: absolute;
+width: 509px;
+height: 81px;
+left: 858px;
+top: 152px;
+
+background: #FF8D28;
+border-radius: 10px;
+
+
+/* 4 Permintaan */
+
+position: absolute;
+width: 175px;
+height: 60px;
+left: 30px;
+top: 11px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 30px;
+
+color: #FFFFFF;
+
+
+
+/* date-range */
+
+position: absolute;
+width: 41px;
+height: 34px;
+left: 22px;
+top: 11px;
+
+
+
+/* Group 6 */
+
+position: absolute;
+width: 509px;
+height: 74px;
+left: 858px;
+top: 251px;
+
+
+
+/* Frame 16 */
+
+position: absolute;
+width: 509px;
+height: 74px;
+left: 858px;
+top: 251px;
+
+background: rgba(255, 42, 42, 0.65);
+border-radius: 10px;
+
+
+/* 3 Terjadwal */
+
+position: absolute;
+width: 175px;
+height: 60px;
+left: 29px;
+top: 6px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 30px;
+
+color: #FFFFFF;
+
+
+
+/* dashboar Bimbingan magang Akama */
+
+position: relative;
+width: 1440px;
+height: 1024px;
+
+background: #E8EAF3;
+
+
+/* Frame 9 */
+
+position: relative;
+width: 234px;
+height: 1081px;
+left: 0px;
+top: -25px;
+
+background: #0B2454;
+border-radius: 10px;
+
+
+/* MENU */
+
+position: absolute;
+width: 105px;
+height: 54px;
+left: 71px;
+top: 55px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 36px;
+line-height: 54px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* iconoir:menu */
+
+position: absolute;
+left: 9.83%;
+right: 76.5%;
+top: 6.11%;
+bottom: 90.93%;
+
+background: #0B2454;
+
+
+/* Vector */
+
+position: absolute;
+left: 12.5%;
+right: 12.5%;
+top: 20.83%;
+bottom: 20.83%;
+
+border: 1.5px solid #FFFFFF;
+
+
+/* Dashboard */
+
+position: absolute;
+width: 90px;
+height: 24px;
+left: calc(50% - 90px/2 - 1px);
+top: 128px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* Informasi Magang */
+
+position: absolute;
+width: 147px;
+height: 24px;
+left: calc(50% - 147px/2 - 2.5px);
+top: 171px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* Pendaftaran Magang */
+
+position: absolute;
+width: 172px;
+height: 24px;
+left: calc(50% - 172px/2 - 2px);
+top: 216px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* Pengajuan Lokasi */
+
+position: absolute;
+width: 140px;
+height: 24px;
+left: calc(50% - 140px/2);
+top: 258px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* Surat Magang */
+
+position: absolute;
+width: 114px;
+height: 24px;
+left: calc(50% - 114px/2 - 2px);
+top: 304px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* Bimbingan */
+
+position: absolute;
+width: 92px;
+height: 24px;
+left: calc(50% - 92px/2);
+top: 350px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* Laporan */
+
+position: absolute;
+width: 66px;
+height: 24px;
+left: calc(50% - 66px/2 - 1px);
+top: 396px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* Penilaian */
+
+position: absolute;
+width: 74px;
+height: 24px;
+left: calc(50% - 74px/2 - 2px);
+top: 443px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* Pengaturan */
+
+position: absolute;
+width: 95px;
+height: 24px;
+left: calc(50% - 95px/2 - 1.5px);
+top: 488px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* Logout */
+
+position: absolute;
+width: 57px;
+height: 24px;
+left: calc(50% - 57px/2 - 5.5px);
+top: 1007px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* Vector 1 */
+
+position: absolute;
+width: 1204px;
+height: 0px;
+left: 234px;
+top: 121px;
+
+border: 1px solid #000000;
+
+
+/* Bimbingan Magang Kelola jadwal konsultasi dan pantau perkembangan bimbingan magang. */
+
+position: absolute;
+width: 737px;
+height: 74px;
+left: 265px;
+top: 22px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 32px;
+line-height: 48px;
+
+color: #000000;
+
+
+
+/* Monitoring Aktivitas */
+
+position: absolute;
+width: 210px;
+height: 30px;
+left: 294px;
+top: 234px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 30px;
+/* identical to box height */
+
+color: #000000;
+
+
+
+/* Data Bimbingan Magang */
+
+position: absolute;
+width: 259px;
+height: 30px;
+left: 294px;
+top: 122px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 30px;
+/* identical to box height */
+
+color: #000000;
+
+
+
+/* Group 7 */
+
+position: absolute;
+width: 523px;
+height: 80px;
+left: 286px;
+top: 153px;
+
+
+
+/* Frame 16 */
+
+position: absolute;
+width: 523px;
+height: 80px;
+left: 286px;
+top: 153px;
+
+background: rgba(115, 115, 115, 0.65);
+border-radius: 10px;
+
+
+/* 115 Total Mahasiswa */
+
+position: absolute;
+width: 175px;
+height: 60px;
+left: 32px;
+top: 9px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 30px;
+
+color: #FFFFFF;
+
+
+
+/* Group 8 */
+
+position: absolute;
+width: 509px;
+height: 81px;
+left: 858px;
+top: 152px;
+
+
+
+/* Frame 16 */
+
+position: absolute;
+width: 509px;
+height: 81px;
+left: 858px;
+top: 152px;
+
+background: #FF8D28;
+border-radius: 10px;
+
+
+/* 14 Belum Bimbingan */
+
+position: absolute;
+width: 195px;
+height: 60px;
+left: 30px;
+top: 11px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 30px;
+
+color: #FFFFFF;
+
+
+
+/* date-range */
+
+position: absolute;
+width: 41px;
+height: 34px;
+left: 22px;
+top: 11px;
+
+
+
+/* Frame 17 */
+
+position: relative;
+width: 1087px;
+height: 196px;
+left: 294px;
+top: 267px;
+
+background: rgba(115, 115, 115, 0.65);
+border-radius: 10px;
+
+
+/* Andi Saputra Dosen: Dr. Ahmad, M.Kom Bimbingan: 4 kali Aktif */
+
+position: absolute;
+width: 254px;
+height: 150px;
+left: 20px;
+top: 14px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 30px;
+
+color: #FFFFFF;
+
+
+
+/* Frame 32 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 1032px;
+height: 37px;
+left: calc(50% - 1032px/2 + 0.5px);
+top: 145px;
+
+background: rgba(0, 0, 0, 0.35);
+border: 1px solid #FFFFFF;
+border-radius: 20px;
+
+
+/* Detail */
+
+position: absolute;
+width: 58px;
+height: 30px;
+left: calc(50% - 58px/2);
+top: 4px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 30px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* Frame 18 */
+
+position: relative;
+width: 1087px;
+height: 196px;
+left: 294px;
+top: 475px;
+
+background: rgba(115, 115, 115, 0.65);
+border-radius: 10px;
+
+
+/* Siti Rahma Dosen: Dr. Haikal, M.Kom Bimbingan: 0 kali Belum ada bimbingan */
+
+position: absolute;
+width: 241px;
+height: 150px;
+left: 20px;
+top: 14px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 30px;
+
+color: #FFFFFF;
+
+
+
+/* Frame 32 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 1032px;
+height: 37px;
+left: calc(50% - 1032px/2 + 0.5px);
+top: 145px;
+
+background: rgba(0, 0, 0, 0.35);
+border: 1px solid #FFFFFF;
+border-radius: 20px;
+
+
+/* Detail */
+
+position: absolute;
+width: 58px;
+height: 30px;
+left: calc(50% - 58px/2);
+top: 4px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 30px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* dashboar dosen */
+
+position: relative;
+width: 1440px;
+height: 1024px;
+
+background: #E8EAF3;
+
+
+/* Frame 9 */
+
+position: relative;
+width: 234px;
+height: 1081px;
+left: 0px;
+top: -25px;
+
+background: #0B2454;
+border-radius: 10px;
+
+
+/* MENU */
+
+position: absolute;
+width: 105px;
+height: 54px;
+left: 71px;
+top: 55px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 36px;
+line-height: 54px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* iconoir:menu */
+
+position: absolute;
+left: 9.83%;
+right: 76.5%;
+top: 6.11%;
+bottom: 90.93%;
+
+background: #0B2454;
+
+
+/* Vector */
+
+position: absolute;
+left: 12.5%;
+right: 12.5%;
+top: 20.83%;
+bottom: 20.83%;
+
+border: 1.5px solid #FFFFFF;
+
+
+/* Dashboard */
+
+position: absolute;
+width: 92px;
+height: 24px;
+left: calc(50% - 92px/2);
+top: 128px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* Informasi Magang */
+
+position: absolute;
+width: 147px;
+height: 24px;
+left: calc(50% - 147px/2 - 2.5px);
+top: 171px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* Pendaftaran Magang */
+
+position: absolute;
+width: 172px;
+height: 24px;
+left: calc(50% - 172px/2 - 2px);
+top: 216px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* Pengajuan Lokasi */
+
+position: absolute;
+width: 140px;
+height: 24px;
+left: calc(50% - 140px/2);
+top: 258px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* Surat Magang */
+
+position: absolute;
+width: 114px;
+height: 24px;
+left: calc(50% - 114px/2 - 2px);
+top: 304px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* Bimbingan */
+
+position: absolute;
+width: 88px;
+height: 24px;
+left: calc(50% - 88px/2 - 2px);
+top: 350px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* Laporan */
+
+position: absolute;
+width: 66px;
+height: 24px;
+left: calc(50% - 66px/2 - 1px);
+top: 396px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* Penilaian */
+
+position: absolute;
+width: 74px;
+height: 24px;
+left: calc(50% - 74px/2 - 2px);
+top: 443px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* Pengaturan */
+
+position: absolute;
+width: 95px;
+height: 24px;
+left: calc(50% - 95px/2 - 1.5px);
+top: 488px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* Logout */
+
+position: absolute;
+width: 57px;
+height: 24px;
+left: calc(50% - 57px/2 - 5.5px);
+top: 1007px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* Vector 1 */
+
+position: absolute;
+width: 1204px;
+height: 0px;
+left: 234px;
+top: 121px;
+
+border: 1px solid #000000;
+
+
+/* SISTEM INFORMASI MAGANG Dashboard Dosen Pembimbing */
+
+position: absolute;
+width: 457px;
+height: 74px;
+left: 265px;
+top: 27px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 32px;
+line-height: 48px;
+
+color: #000000;
+
+
+
+/* Selamat datang, user */
+
+position: absolute;
+width: 223px;
+height: 30px;
+left: 265px;
+top: 140px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 30px;
+/* identical to box height */
+
+color: #000000;
+
+
+
+/* Frame 10 */
+
+position: relative;
+width: 517px;
+height: 100px;
+left: 295px;
+top: 197px;
+
+background: rgba(115, 115, 115, 0.65);
+border-radius: 10px;
+
+
+/* Mahasiswa Bimbingan */
+
+position: absolute;
+width: 227px;
+height: 30px;
+left: 32px;
+top: 61px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 30px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* 25 */
+
+position: absolute;
+width: 40px;
+height: 48px;
+left: 36px;
+top: 10px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 32px;
+line-height: 48px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* Frame 12 */
+
+position: relative;
+width: 517px;
+height: 100px;
+left: 295px;
+top: 324px;
+
+background: rgba(115, 115, 115, 0.65);
+border-radius: 10px;
+
+
+/* 7 */
+
+position: absolute;
+width: 18px;
+height: 48px;
+left: 36px;
+top: 10px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 32px;
+line-height: 48px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* Jadwal Bimbingan */
+
+position: absolute;
+width: 187px;
+height: 30px;
+left: 36px;
+top: 61px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 30px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* Frame 14 */
+
+position: relative;
+width: 1074px;
+height: 473px;
+left: calc(50% - 1074px/2 + 112px);
+top: 511px;
+
+background: rgba(115, 115, 115, 0.65);
+border-radius: 10px;
+
+
+/* Febryan Saputra 2417020112 · PT Maju Jaya Menunggu Verifikasi */
+
+position: absolute;
+width: 248px;
+height: 90px;
+left: 36px;
+top: 11px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 30px;
+
+color: #FFFFFF;
+
+
+
+/* Darul Ilmi 2417020115 · PT suka Jaya Terverifikasi */
+
+position: absolute;
+width: 248px;
+height: 90px;
+left: 36px;
+top: 129px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 30px;
+
+color: #FFFFFF;
+
+
+
+/* Vector 2 */
+
+position: absolute;
+width: 1040px;
+height: 0px;
+left: 14px;
+top: 115px;
+
+border: 1px solid #000000;
+
+
+/* Vector 3 */
+
+position: absolute;
+width: 1040px;
+height: 0px;
+left: calc(50% - 1040px/2);
+top: 237px;
+
+border: 1px solid #000000;
+
+
+/* Detail */
+
+position: absolute;
+width: 58px;
+height: 30px;
+left: 943px;
+top: 48px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 30px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* Detail */
+
+position: absolute;
+width: 58px;
+height: 30px;
+left: 941px;
+top: 165px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 30px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* Frame 13 */
+
+position: relative;
+width: 517px;
+height: 100px;
+left: 852px;
+top: 324px;
+
+background: rgba(115, 115, 115, 0.65);
+border-radius: 10px;
+
+
+/* 8 */
+
+position: absolute;
+width: 21px;
+height: 48px;
+left: 30px;
+top: 10px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 32px;
+line-height: 48px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* Laporan Diperiksa */
+
+position: absolute;
+width: 177px;
+height: 30px;
+left: 30px;
+top: 61px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 300;
+font-size: 20px;
+line-height: 30px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* Pengajuan Terbaru */
+
+position: absolute;
+width: 198px;
+height: 30px;
+left: 301px;
+top: 462px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 30px;
+/* identical to box height */
+
+color: #000000;
+
+
+
+/* Pengajuan Terbaru */
+
+position: absolute;
+width: 198px;
+height: 30px;
+left: 301px;
+top: 462px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 30px;
+/* identical to box height */
+
+color: #000000;
+
+
+
+/* Pengajuan Terbaru */
+
+position: absolute;
+width: 198px;
+height: 30px;
+left: 301px;
+top: 462px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 30px;
+/* identical to box height */
+
+color: #000000;
+
+
+
+/* Frame 11 */
+
+position: relative;
+width: 517px;
+height: 100px;
+left: 852px;
+top: 197px;
+
+background: rgba(115, 115, 115, 0.65);
+border-radius: 10px;
+
+
+/* 4 */
+
+position: absolute;
+width: 22px;
+height: 48px;
+left: 36px;
+top: 10px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 32px;
+line-height: 48px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* Pengajuan Menunggu */
+
+position: absolute;
+width: 222px;
+height: 30px;
+left: 36px;
+top: 61px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 30px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* dashboar Akademik */
+
+position: relative;
+width: 1440px;
+height: 1024px;
+
+background: #E8EAF3;
+
+
+/* Frame 9 */
+
+position: relative;
+width: 234px;
+height: 1081px;
+left: 0px;
+top: -25px;
+
+background: #0B2454;
+border-radius: 10px;
+
+
+/* MENU */
+
+position: absolute;
+width: 105px;
+height: 54px;
+left: 71px;
+top: 55px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 36px;
+line-height: 54px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* iconoir:menu */
+
+position: absolute;
+left: 9.83%;
+right: 76.5%;
+top: 6.11%;
+bottom: 90.93%;
+
+background: #0B2454;
+
+
+/* Vector */
+
+position: absolute;
+left: 12.5%;
+right: 12.5%;
+top: 20.83%;
+bottom: 20.83%;
+
+border: 1.5px solid #FFFFFF;
+
+
+/* Dashboard */
+
+position: absolute;
+width: 92px;
+height: 24px;
+left: calc(50% - 92px/2);
+top: 128px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* Informasi Magang */
+
+position: absolute;
+width: 147px;
+height: 24px;
+left: calc(50% - 147px/2 - 2.5px);
+top: 171px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* Pendaftaran Magang */
+
+position: absolute;
+width: 172px;
+height: 24px;
+left: calc(50% - 172px/2 - 2px);
+top: 216px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* Pengajuan Lokasi */
+
+position: absolute;
+width: 140px;
+height: 24px;
+left: calc(50% - 140px/2);
+top: 258px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* Surat Magang */
+
+position: absolute;
+width: 114px;
+height: 24px;
+left: calc(50% - 114px/2 - 2px);
+top: 304px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* Bimbingan */
+
+position: absolute;
+width: 88px;
+height: 24px;
+left: calc(50% - 88px/2 - 2px);
+top: 350px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* Laporan */
+
+position: absolute;
+width: 66px;
+height: 24px;
+left: calc(50% - 66px/2 - 1px);
+top: 396px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* Penilaian */
+
+position: absolute;
+width: 74px;
+height: 24px;
+left: calc(50% - 74px/2 - 2px);
+top: 443px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* Pengaturan */
+
+position: absolute;
+width: 95px;
+height: 24px;
+left: calc(50% - 95px/2 - 1.5px);
+top: 488px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* Logout */
+
+position: absolute;
+width: 57px;
+height: 24px;
+left: calc(50% - 57px/2 - 5.5px);
+top: 1007px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* Vector 1 */
+
+position: absolute;
+width: 1204px;
+height: 0px;
+left: 234px;
+top: 121px;
+
+border: 1px solid #000000;
+
+
+/* SISTEM INFORMASI MAGANG Dashboard Akademik */
+
+position: absolute;
+width: 457px;
+height: 74px;
+left: 265px;
+top: 27px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 32px;
+line-height: 48px;
+
+color: #000000;
+
+
+
+/* Selamat datang, user */
+
+position: absolute;
+width: 223px;
+height: 30px;
+left: 265px;
+top: 140px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 30px;
+/* identical to box height */
+
+color: #000000;
+
+
+
+/* Frame 10 */
+
+position: relative;
+width: 517px;
+height: 100px;
+left: 295px;
+top: 197px;
+
+background: rgba(115, 115, 115, 0.65);
+border-radius: 10px;
+
+
+/* Total Dosen */
+
+position: absolute;
+width: 118px;
+height: 30px;
+left: 32px;
+top: 61px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 30px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* 25 */
+
+position: absolute;
+width: 40px;
+height: 48px;
+left: 36px;
+top: 10px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 32px;
+line-height: 48px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* Frame 12 */
+
+position: relative;
+width: 517px;
+height: 100px;
+left: 295px;
+top: 324px;
+
+background: rgba(115, 115, 115, 0.65);
+border-radius: 10px;
+
+
+/* 7 */
+
+position: absolute;
+width: 18px;
+height: 48px;
+left: 36px;
+top: 10px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 32px;
+line-height: 48px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* Pengajuan Masuk */
+
+position: absolute;
+width: 178px;
+height: 30px;
+left: 36px;
+top: 61px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 30px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* Frame 14 */
+
+position: relative;
+width: 1074px;
+height: 473px;
+left: calc(50% - 1074px/2 + 112px);
+top: 511px;
+
+background: rgba(115, 115, 115, 0.65);
+border-radius: 10px;
+
+
+/* Febryan Saputra 2417020112 · PT Maju Jaya Sedang Diproses */
+
+position: absolute;
+width: 248px;
+height: 90px;
+left: 36px;
+top: 11px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 30px;
+
+color: #FFFFFF;
+
+
+
+/* Darul Ilmi 2417020115 · PT suka Jaya Selesai */
+
+position: absolute;
+width: 248px;
+height: 90px;
+left: 36px;
+top: 129px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 30px;
+
+color: #FFFFFF;
+
+
+
+/* Vector 2 */
+
+position: absolute;
+width: 1040px;
+height: 0px;
+left: 14px;
+top: 115px;
+
+border: 1px solid #000000;
+
+
+/* Vector 3 */
+
+position: absolute;
+width: 1040px;
+height: 0px;
+left: calc(50% - 1040px/2);
+top: 237px;
+
+border: 1px solid #000000;
+
+
+/* Detail */
+
+position: absolute;
+width: 58px;
+height: 30px;
+left: 936px;
+top: 41px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 30px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* Verifikasi Dokumen */
+
+position: absolute;
+width: 191px;
+height: 30px;
+left: 858px;
+top: 166px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 30px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* Frame 13 */
+
+position: relative;
+width: 517px;
+height: 100px;
+left: 852px;
+top: 324px;
+
+background: rgba(115, 115, 115, 0.65);
+border-radius: 10px;
+
+
+/* 8 */
+
+position: absolute;
+width: 21px;
+height: 48px;
+left: 30px;
+top: 10px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 32px;
+line-height: 48px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* Surat diproses */
+
+position: absolute;
+width: 142px;
+height: 30px;
+left: 30px;
+top: 61px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 300;
+font-size: 20px;
+line-height: 30px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* Pengajuan Terbaru */
+
+position: absolute;
+width: 198px;
+height: 30px;
+left: 301px;
+top: 462px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 30px;
+/* identical to box height */
+
+color: #000000;
+
+
+
+/* Pengajuan Terbaru */
+
+position: absolute;
+width: 198px;
+height: 30px;
+left: 301px;
+top: 462px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 30px;
+/* identical to box height */
+
+color: #000000;
+
+
+
+/* Pengajuan Terbaru */
+
+position: absolute;
+width: 198px;
+height: 30px;
+left: 301px;
+top: 462px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 30px;
+/* identical to box height */
+
+color: #000000;
+
+
+
+/* Frame 11 */
+
+position: relative;
+width: 517px;
+height: 100px;
+left: 852px;
+top: 197px;
+
+background: rgba(115, 115, 115, 0.65);
+border-radius: 10px;
+
+
+/* 4 */
+
+position: absolute;
+width: 22px;
+height: 48px;
+left: 36px;
+top: 10px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 32px;
+line-height: 48px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* Total Mahasiswa */
+
+position: absolute;
+width: 168px;
+height: 30px;
+left: 36px;
+top: 61px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 30px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* Section 1 */
+
+position: relative;
+width: 562px;
+height: 1024px;
+
+
+
+/* LOGIN */
+
+position: relative;
+width: 562px;
+height: 1024px;
+left: 0px;
+top: 0px;
+
+background: #0B2454;
+
+
+/* Sistem Informasi Pengelolaan Magang Akdemik */
+
+position: absolute;
+width: 478px;
+height: 30px;
+left: calc(50% - 478px/2);
+top: 964px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 30px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* SIM MAGANG Fakultas Sain dan Teknologi */
+
+position: absolute;
+width: 292px;
+height: 60px;
+left: calc(50% - 292px/2 + 122px);
+top: 129px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 30px;
+
+color: #FFFFFF;
+
+
+
+/* Mengelolah Proses magang mahasiswa secara digital dan terintegrasi. */
+
+position: absolute;
+width: 328px;
+height: 90px;
+left: 179px;
+top: 380px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 30px;
+
+color: #FFFFFF;
+
+
+
+/* Verifikasi, pengelolaan data, penilaian, dan rekapitulasi magang. */
+
+position: absolute;
+width: 319px;
+height: 90px;
+left: 176px;
+top: 540px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 30px;
+
+color: #FFFFFF;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 13.52%;
+right: 78.83%;
+top: 53.91%;
+bottom: 40.33%;
+
+background: rgba(49, 129, 234, 0.99);
+
+
+/* note-edit */
+
+position: absolute;
+width: 50px;
+height: 59px;
+left: 69px;
+top: 398px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 12.5%;
+right: 4.17%;
+top: 12.5%;
+bottom: 8.33%;
+
+background: rgba(49, 129, 234, 0.99);
+
+
+/* image 1 */
+
+position: absolute;
+width: 225px;
+height: 218px;
+left: 19px;
+top: 50px;
+
+background: url(image.png);
+
+
+/* search */
+
+position: relative;
+width: 24px;
+height: 24px;
